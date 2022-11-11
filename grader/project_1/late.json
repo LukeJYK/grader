@@ -1,0 +1,125 @@
+[
+  {
+    "comments": [],
+    "deduction": "0.0",
+    "id": 145951,
+    "late_duration": "0d 23h 45m 35s",
+    "name": "Dennis Angelov"
+  },
+  {
+    "comments": [],
+    "deduction": "0.0",
+    "id": 116818,
+    "late_duration": "0d 17h 42m 7s",
+    "name": "Rohan Balakrishna"
+  },
+  {
+    "comments": [],
+    "deduction": "0.0",
+    "id": 122256,
+    "late_duration": "0d 0h 1m 45s",
+    "name": "Alejandro Cardozo-Mongelos"
+  },
+  {
+    "comments": [],
+    "deduction": "0.0",
+    "id": 121768,
+    "late_duration": "0d 0h 1m 45s",
+    "name": "Abigail Coneeny"
+  },
+  {
+    "comments": [],
+    "deduction": "0.0",
+    "id": 121773,
+    "late_duration": "3d 20h 45m 40s",
+    "name": "AJ Denhoff"
+  },
+  {
+    "comments": [],
+    "deduction": "0.0",
+    "id": 135792,
+    "late_duration": "3d 20h 45m 40s",
+    "name": "Andrew Huang"
+  },
+  {
+    "comments": [
+      {
+        "content": "Resubmitted to include Michael Zhu (tzk524)",
+        "name": "Romir Hysko",
+        "time": "2021-02-03T20:11:04Z"
+      }
+    ],
+    "deduction": "0.0",
+    "id": 120720,
+    "late_duration": "1d 14h 11m 4s",
+    "name": "Romir Hysko"
+  },
+  {
+    "comments": [],
+    "deduction": "0.0",
+    "id": 96442,
+    "late_duration": "1d 23h 48m 17s",
+    "name": "Joshua Larson"
+  },
+  {
+    "comments": [],
+    "deduction": "0.0",
+    "id": 101666,
+    "late_duration": "0d 2h 41m 26s",
+    "name": "Alex Lee"
+  },
+  {
+    "comments": [
+      {
+        "content": "So sorry, my internet went out an hour before the deadline and just came back.",
+        "name": "Jonathan Liu",
+        "time": "2021-02-02T07:22:11Z"
+      }
+    ],
+    "deduction": "0.0",
+    "id": 122265,
+    "late_duration": "0d 1h 22m 12s",
+    "name": "Jonathan Liu"
+  },
+  {
+    "comments": [],
+    "deduction": "0.0",
+    "id": 151163,
+    "late_duration": "0d 20h 40m 50s",
+    "name": "John Mamish"
+  },
+  {
+    "comments": [],
+    "deduction": "0.0",
+    "id": 95068,
+    "late_duration": "0d 17h 42m 7s",
+    "name": "Benjamin Nober"
+  },
+  {
+    "comments": [],
+    "deduction": "0.0",
+    "id": 149193,
+    "late_duration": "0d 12h 51m 11s",
+    "name": "Hanjie Xie"
+  },
+  {
+    "comments": [],
+    "deduction": "0.0",
+    "id": 79173,
+    "late_duration": "0d 12h 51m 11s",
+    "name": "Rabin Zhao"
+  },
+  {
+    "comments": [
+      {
+        "content": "Resubmitted to include Michael Zhu (tzk524)",
+        "name": "Romir Hysko",
+        "time": "2021-02-03T20:11:04Z"
+      }
+    ],
+    "deduction": "0.0",
+    "id": 58181,
+    "late_duration": "1d 14h 11m 4s",
+    "name": "Michael Zhu"
+  }
+]

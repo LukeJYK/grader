@@ -1,0 +1,2668 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@                                                                              @
+@                          TABLE 1: PER-URL SCAN INFO                          @
+@                                                                              @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+DOMAIN: accuweather.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+insecure_http       False                                                       
+ipv4_addresses      ['104.117.65.220', '104.69.219.34', '104.70.184.82',        
+                    '184.51.132.77', '23.206.190.93', '23.207.218.76',          
+                    '23.4.1.96', '23.64.138.82', '23.77.198.129']               
+ipv6_addresses      []                                                          
+rdns_names          ['a104-117-65-220.deploy.static.akamaitechnologies.com',    
+                    'a104-69-219-34.deploy.static.akamaitechnologies.com',      
+                    'a104-70-184-82.deploy.static.akamaitechnologies.com',      
+                    'a184-51-132-77.deploy.static.akamaitechnologies.com',      
+                    'a23-206-190-93.deploy.static.akamaitechnologies.com',      
+                    'a23-207-218-76.deploy.static.akamaitechnologies.com',      
+                    'a23-4-1-96.deploy.static.akamaitechnologies.com',          
+                    'a23-64-138-82.deploy.static.akamaitechnologies.com',       
+                    'a23-77-198-129.deploy.static.akamaitechnologies.com']      
+redirect_to_https   False                                                       
+root_ca             DigiCert Inc                                                
+rtt_range           [26.24058723449707, 154.04248237609863]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: allrecipes.com
+    Attribute                        Value                 
+===========================================================
+geo_locations       ['San Jose, California, United States']
+hsts                False                                  
+http_server         nginx                                  
+insecure_http       True                                   
+ipv4_addresses      ['13.93.202.50']                       
+ipv6_addresses      []                                     
+rdns_names          []                                     
+redirect_to_https   True                                   
+root_ca             "GoDaddy.com                           
+rtt_range           [73.18472862243652, 73.18472862243652] 
+scan_time           1.606e+09                              
+tls_versions        ['TLSv1.2']                            
+
+
+DOMAIN: amazon.com
+    Attribute                               Value                         
+==========================================================================
+geo_locations       ['Ashburn, Virginia, United States']                  
+hsts                False                                                 
+http_server         Server                                                
+insecure_http       True                                                  
+ipv4_addresses      ['176.32.103.205', '176.32.98.166', '205.251.242.103']
+ipv6_addresses      []                                                    
+rdns_names          ['s3-console-us-standard.console.aws.amazon.com']     
+redirect_to_https   True                                                  
+root_ca             DigiCert Inc                                          
+rtt_range           [54.36444282531738, 56.181907653808594]               
+scan_time           1.606e+09                                             
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']                     
+
+
+DOMAIN: aol.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Singapore', 'United Kingdom', 'United States']            
+hsts                True                                                        
+http_server         ATS                                                         
+insecure_http       True                                                        
+ipv4_addresses      ['106.10.248.150', '124.108.115.100', '212.82.100.150',     
+                    '74.6.136.150', '98.136.103.23']                            
+ipv6_addresses      []                                                          
+rdns_names          ['addit2.com', 'adinterax.com', 'foxytunes.com']            
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [79.56194877624512, 258.9404582977295]                      
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: apartments.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+insecure_http       False                                                       
+ipv4_addresses      ['104.102.22.187', '104.105.105.69', '104.106.249.221',     
+                    '173.222.101.146', '184.84.67.49', '23.199.175.98',         
+                    '23.201.73.215', '23.203.71.134', '23.74.215.147',          
+                    '23.78.43.228']                                             
+ipv6_addresses      []                                                          
+rdns_names          ['a104-102-22-187.deploy.static.akamaitechnologies.com',    
+                    'a104-105-105-69.deploy.static.akamaitechnologies.com',     
+                    'a104-106-249-221.deploy.static.akamaitechnologies.com',    
+                    'a173-222-101-146.deploy.static.akamaitechnologies.com',    
+                    'a184-84-67-49.deploy.static.akamaitechnologies.com',       
+                    'a23-199-175-98.deploy.static.akamaitechnologies.com',      
+                    'a23-201-73-215.deploy.static.akamaitechnologies.com',      
+                    'a23-203-71-134.deploy.static.akamaitechnologies.com',      
+                    'a23-74-215-147.deploy.static.akamaitechnologies.com',      
+                    'a23-78-43-228.deploy.static.akamaitechnologies.com']       
+redirect_to_https   False                                                       
+root_ca             DigiCert Inc                                                
+rtt_range           [40.69662094116211, 263.1199359893799]                      
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2', 'TLSv1.3']                                      
+
+
+DOMAIN: apple.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                True                                                        
+http_server         Apache                                                      
+insecure_http       True                                                        
+ipv4_addresses      ['17.253.144.10']                                           
+ipv6_addresses      []                                                          
+rdns_names          ['apple.com', 'icloud.com', 'icloud.com.cn', 'world-        
+                    any.aaplimg.com', 'www.icmoud.com']                         
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [20.01214027404785, 20.01214027404785]                      
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2', 'TLSv1.3']                                      
+
+
+DOMAIN: bankofamerica.com
+    Attribute                       Value                 
+==========================================================
+geo_locations       ['United States']                     
+hsts                True                                  
+insecure_http       True                                  
+ipv4_addresses      ['171.159.228.150', '171.161.148.150']
+ipv6_addresses      []                                    
+rdns_names          []                                    
+redirect_to_https   True                                  
+root_ca             "Entrust                              
+rtt_range           [63.47990036010742, 71.36750221252441]
+scan_time           1.606e+09                             
+tls_versions        ['TLSv1.2']                           
+
+
+DOMAIN: bbb.org
+    Attribute                        Value                  
+============================================================
+geo_locations       ['United States']                       
+hsts                False                                   
+http_server         nginx                                   
+insecure_http       True                                    
+ipv4_addresses      ['216.52.119.101']                      
+ipv6_addresses      []                                      
+rdns_names          ['smtp.list.bbb.org']                   
+redirect_to_https   True                                    
+root_ca             DigiCert Inc                            
+rtt_range           [40.290117263793945, 40.290117263793945]
+scan_time           1.606e+09                               
+tls_versions        ['TLSv1.2', 'TLSv1.3']                  
+
+
+DOMAIN: bestbuy.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['', 'Palm Springs, California, United States', 'United     
+                    States']                                                    
+hsts                True                                                        
+insecure_http       True                                                        
+ipv4_addresses      ['104.116.247.59', '104.69.158.15', '2.16.20.46',           
+                    '2.20.9.8', '23.194.108.46', '23.221.200.50',               
+                    '23.221.62.234', '23.50.228.35', '23.53.168.21',            
+                    '23.60.171.10', '23.7.132.30']                              
+ipv6_addresses      []                                                          
+rdns_names          ['a104-116-247-59.deploy.static.akamaitechnologies.com',    
+                    'a104-69-158-15.deploy.static.akamaitechnologies.com',      
+                    'a2-16-20-46.deploy.static.akamaitechnologies.com',         
+                    'a2-20-9-8.deploy.static.akamaitechnologies.com',           
+                    'a23-194-108-46.deploy.static.akamaitechnologies.com',      
+                    'a23-221-200-50.deploy.static.akamaitechnologies.com',      
+                    'a23-221-62-234.deploy.static.akamaitechnologies.com',      
+                    'a23-50-228-35.deploy.static.akamaitechnologies.com',       
+                    'a23-53-168-21.deploy.static.akamaitechnologies.com',       
+                    'a23-60-171-10.deploy.static.akamaitechnologies.com',       
+                    'a23-7-132-30.deploy.static.akamaitechnologies.com']        
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [31.235218048095703, 286.9410514831543]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2', 'TLSv1.3']                                      
+
+
+DOMAIN: bleacherreport.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+http_server         nginx                                                       
+insecure_http       True                                                        
+ipv4_addresses      ['151.101.1.5', '151.101.129.5', '151.101.193.5',           
+                    '151.101.65.5']                                             
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             GlobalSign nv-sa                                            
+rtt_range           [19.797563552856445, 39.139509201049805]                    
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2']                                                 
+
+
+DOMAIN: books.google.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                True                                                        
+http_server         OFE/0.1                                                     
+insecure_http       True                                                        
+ipv4_addresses      ['172.217.0.14', '172.217.19.110', '172.217.2.238',         
+                    '172.217.20.142', '172.217.20.78', '172.217.4.110',         
+                    '172.217.4.206', '172.217.4.46', '172.217.6.206',           
+                    '172.217.8.174', '172.217.8.206', '173.194.221.100',        
+                    '173.194.221.101', '173.194.221.102', '173.194.221.113',    
+                    '173.194.221.138', '173.194.221.139']                       
+ipv6_addresses      ['2607:f8b0:4000:811::200e', '2607:f8b0:4006:812::200e',    
+                    '2607:f8b0:4009:800::200e', '2607:f8b0:4009:802::200e',     
+                    '2607:f8b0:4009:806::200e', '2607:f8b0:4009:810::200e',     
+                    '2607:f8b0:4009:816::200e', '2a00:1450:4009:801::200e',     
+                    '2a00:1450:400d:804::200e', '2a00:1450:400e:80a::200e',     
+                    '2a00:1450:4010:c07::66', '2a00:1450:4010:c07::71',         
+                    '2a00:1450:4010:c07::8a', '2a00:1450:4010:c07::8b']         
+rdns_names          ['ams15s33-in-f14.1e100.net', 'bud02s27-in-f14.1e100.net',  
+                    'dfw28s01-in-f14.1e100.net', 'fra07s27-in-f142.1e100.net',  
+                    'lga15s46-in-f14.1e100.net', 'lga15s46-in-f46.1e100.net',   
+                    'lga15s48-in-f206.1e100.net', 'lga25s54-in-f14.1e100.net',  
+                    'lga25s54-in-f206.1e100.net', 'lhr48s20-in-f14.1e100.net',  
+                    'lm-in-f100.1e100.net', 'lm-in-f101.1e100.net', 'lm-        
+                    in-f102.1e100.net', 'lm-in-f113.1e100.net', 'lm-            
+                    in-f138.1e100.net', 'lm-in-f139.1e100.net',                 
+                    'muc03s07-in-f110.1e100.net', 'muc11s10-in-f14.1e100.net',  
+                    'ord36s04-in-f110.1e100.net', 'ord36s04-in-f14.1e100.net',  
+                    'ord37s08-in-f14.1e100.net', 'ord37s09-in-f14.1e100.net',   
+                    'ord37s19-in-f14.1e100.net', 'ord38s04-in-f14.1e100.net',   
+                    'ord38s18-in-f14.1e100.net']                                
+redirect_to_https   True                                                        
+root_ca             GlobalSign                                                  
+rtt_range           [23.669719696044922, 175.20880699157715]                    
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: britannica.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+http_server         Apache/2.4.25 (Debian) mod_jk/1.2.46                        
+insecure_http       True                                                        
+ipv4_addresses      ['18.213.190.12', '34.206.100.126']                         
+ipv6_addresses      []                                                          
+rdns_names          ['ec2-18-213-190-12.compute-1.amazonaws.com',               
+                    'ec2-34-206-100-126.compute-1.amazonaws.com']               
+redirect_to_https   True                                                        
+root_ca             Amazon                                                      
+rtt_range           [59.18407440185547, 66.32542610168457]                      
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']                           
+
+
+DOMAIN: businessinsider.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                True                                                        
+insecure_http       True                                                        
+ipv4_addresses      ['151.101.1.171', '151.101.129.171', '151.101.193.171',     
+                    '151.101.65.171']                                           
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             GlobalSign nv-sa                                            
+rtt_range           [23.142337799072266, 38.880109786987305]                    
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2']                                                 
+
+
+DOMAIN: ca.gov
+    Attribute                        Value                 
+===========================================================
+geo_locations       ['San Jose, California, United States']
+hsts                True                                   
+insecure_http       True                                   
+ipv4_addresses      ['13.87.221.220']                      
+ipv6_addresses      []                                     
+rdns_names          []                                     
+redirect_to_https   True                                   
+root_ca             The USERTRUST Network                  
+rtt_range           [77.38089561462402, 77.38089561462402] 
+scan_time           1.606e+09                              
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']      
+
+
+DOMAIN: cbssports.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+http_server         nginx/1.14.2                                                
+insecure_http       True                                                        
+ipv4_addresses      ['151.101.1.188', '151.101.129.188', '151.101.193.188',     
+                    '151.101.65.188']                                           
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [20.400047302246094, 169.93260383605957]                    
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2']                                                 
+
+
+DOMAIN: chase.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['New York, New York, United States', 'United States']      
+hsts                True                                                        
+insecure_http       True                                                        
+ipv4_addresses      ['159.53.113.168', '159.53.116.62', '159.53.224.21',        
+                    '159.53.42.11', '159.53.44.60', '159.53.84.126',            
+                    '159.53.85.137']                                            
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             "Entrust                                                    
+rtt_range           [26.235103607177734, 72.75605201721191]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2']                                                 
+
+
+DOMAIN: cnet.com
+    Attribute                          Value                    
+================================================================
+geo_locations       ['Kansas City, Missouri, United States']    
+hsts                True                                        
+insecure_http       True                                        
+ipv4_addresses      ['35.190.79.82']                            
+ipv6_addresses      []                                          
+rdns_names          ['82.79.190.35.bc.googleusercontent.com']   
+redirect_to_https   True                                        
+root_ca             DigiCert Inc                                
+rtt_range           [30.324697494506836, 30.324697494506836]    
+scan_time           1.606e+09                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']
+
+
+DOMAIN: cnn.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+insecure_http       True                                                        
+ipv4_addresses      ['151.101.1.67', '151.101.129.67', '151.101.193.67',        
+                    '151.101.65.67']                                            
+ipv6_addresses      ['2a04:4e42:200::323', '2a04:4e42:400::323',                
+                    '2a04:4e42:600::323', '2a04:4e42::323']                     
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             GlobalSign nv-sa                                            
+rtt_range           [21.30889892578125, 33.9045524597168]                       
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']                           
+
+
+DOMAIN: craigslist.org
+    Attribute                      Value                
+========================================================
+geo_locations       ['United States']                   
+hsts                True                                
+insecure_http       True                                
+ipv4_addresses      ['208.82.237.129']                  
+ipv6_addresses      []                                  
+rdns_names          ['www.craigslist.org']              
+redirect_to_https   True                                
+root_ca             DigiCert Inc                        
+rtt_range           [45.9136962890625, 45.9136962890625]
+scan_time           1.606e+09                           
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']   
+
+
+DOMAIN: dictionary.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+http_server         nginx/1.16.1                                                
+insecure_http       True                                                        
+ipv4_addresses      ['151.101.130.133', '151.101.194.133', '151.101.2.133',     
+                    '151.101.66.133']                                           
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             Digital Signature Trust Co.                                 
+rtt_range           [28.71561050415039, 51.66053771972656]                      
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2']                                                 
+
+
+DOMAIN: ebay.com
+    Attribute                       Value                 
+==========================================================
+geo_locations       ['United States']                     
+hsts                True                                  
+http_server         ebay-proxy-server                     
+insecure_http       True                                  
+ipv4_addresses      ['66.135.195.175', '66.135.196.249']  
+ipv6_addresses      []                                    
+rdns_names          ['ru.ebay.com']                       
+redirect_to_https   True                                  
+root_ca             The USERTRUST Network                 
+rtt_range           [91.7506217956543, 109.40194129943848]
+scan_time           1.606e+09                             
+tls_versions        ['TLSv1.1', 'TLSv1.2']                
+
+
+DOMAIN: en.wikipedia.org
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Netherlands', 'United States']                            
+hsts                True                                                        
+http_server         mw1384.eqiad.wmnet                                          
+insecure_http       True                                                        
+ipv4_addresses      ['208.80.154.224', '91.198.174.192']                        
+ipv6_addresses      ['2620:0:861:ed1a::1', '2620:0:862:ed1a::1']                
+rdns_names          ['text-lb.eqiad.wikimedia.org', 'text-                      
+                    lb.esams.wikimedia.org']                                    
+redirect_to_https   True                                                        
+root_ca             Digital Signature Trust Co.                                 
+rtt_range           [42.11544990539551, 123.37350845336914]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2', 'TLSv1.3']                                      
+
+
+DOMAIN: espn.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+insecure_http       True                                                        
+ipv4_addresses      ['13.225.177.117', '13.225.177.23', '13.225.177.25',        
+                    '13.225.177.95', '13.225.65.102', '13.225.65.69',           
+                    '13.225.65.88', '13.225.65.92', '52.84.145.15',             
+                    '52.84.145.66', '52.84.145.80', '52.84.145.83',             
+                    '54.230.18.2', '54.230.18.38', '54.230.18.5',               
+                    '54.230.18.54', '99.84.39.18', '99.84.39.26', '99.84.39.73',
+                    '99.84.39.95', '99.86.159.112', '99.86.159.19',             
+                    '99.86.159.72', '99.86.159.76']                             
+ipv6_addresses      []                                                          
+rdns_names          ['server-13-225-177-117.nrt57.r.cloudfront.net',            
+                    'server-13-225-177-23.nrt57.r.cloudfront.net',              
+                    'server-13-225-177-25.nrt57.r.cloudfront.net',              
+                    'server-13-225-177-95.nrt57.r.cloudfront.net',              
+                    'server-13-225-65-102.ewr53.r.cloudfront.net',              
+                    'server-13-225-65-69.ewr53.r.cloudfront.net',               
+                    'server-13-225-65-88.ewr53.r.cloudfront.net',               
+                    'server-13-225-65-92.ewr53.r.cloudfront.net',               
+                    'server-52-84-145-15.ord53.r.cloudfront.net',               
+                    'server-52-84-145-66.ord53.r.cloudfront.net',               
+                    'server-52-84-145-80.ord53.r.cloudfront.net',               
+                    'server-52-84-145-83.ord53.r.cloudfront.net',               
+                    'server-54-230-18-2.ord51.r.cloudfront.net',                
+                    'server-54-230-18-38.ord51.r.cloudfront.net',               
+                    'server-54-230-18-5.ord51.r.cloudfront.net',                
+                    'server-54-230-18-54.ord51.r.cloudfront.net',               
+                    'server-99-84-39-18.ewr52.r.cloudfront.net',                
+                    'server-99-84-39-26.ewr52.r.cloudfront.net',                
+                    'server-99-84-39-73.ewr52.r.cloudfront.net',                
+                    'server-99-84-39-95.ewr52.r.cloudfront.net',                
+                    'server-99-86-159-112.mxp64.r.cloudfront.net',              
+                    'server-99-86-159-19.mxp64.r.cloudfront.net',               
+                    'server-99-86-159-72.mxp64.r.cloudfront.net',               
+                    'server-99-86-159-76.mxp64.r.cloudfront.net']               
+redirect_to_https   True                                                        
+root_ca             "Entrust                                                    
+rtt_range           [31.145572662353516, 234.3149185180664]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: etsy.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                True                                                        
+http_server         Apache                                                      
+insecure_http       True                                                        
+ipv4_addresses      ['151.101.1.224', '151.101.129.224', '151.101.193.224',     
+                    '151.101.65.224']                                           
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             GlobalSign nv-sa                                            
+rtt_range           [25.37250518798828, 38.17343711853027]                      
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2']                                                 
+
+
+DOMAIN: expedia.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+http_server         AkamaiNetStorage                                            
+insecure_http       True                                                        
+ipv4_addresses      ['104.102.208.50', '104.107.37.171', '104.108.66.201',      
+                    '23.196.127.112', '23.2.172.54', '23.33.175.63',            
+                    '23.78.64.149']                                             
+ipv6_addresses      []                                                          
+rdns_names          ['a104-102-208-50.deploy.static.akamaitechnologies.com',    
+                    'a104-107-37-171.deploy.static.akamaitechnologies.com',     
+                    'a104-108-66-201.deploy.static.akamaitechnologies.com',     
+                    'a23-196-127-112.deploy.static.akamaitechnologies.com',     
+                    'a23-2-172-54.deploy.static.akamaitechnologies.com',        
+                    'a23-33-175-63.deploy.static.akamaitechnologies.com',       
+                    'a23-78-64-149.deploy.static.akamaitechnologies.com']       
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [25.793790817260742, 118.4539794921875]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.1', 'TLSv1.2', 'TLSv1.3']                           
+
+
+DOMAIN: facebook.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Ireland', 'United States']                                
+hsts                True                                                        
+insecure_http       True                                                        
+ipv4_addresses      ['157.240.18.35', '157.240.19.35', '157.240.196.35',        
+                    '157.240.2.35', '157.240.221.35', '31.13.65.36',            
+                    '31.13.67.35', '69.171.250.35']                             
+ipv6_addresses      ['2a03:2880:f103:83:face:b00c:0:25de',                      
+                    '2a03:2880:f118:82:face:b00c:0:25de',                       
+                    '2a03:2880:f127:283:face:b00c:0:25de',                      
+                    '2a03:2880:f127:83:face:b00c:0:25de',                       
+                    '2a03:2880:f12c:83:face:b00c:0:25de',                       
+                    '2a03:2880:f134:83:face:b00c:0:25de',                       
+                    '2a03:2880:f142:182:face:b00c:0:25de',                      
+                    '2a03:2880:f158:82:face:b00c:0:25de',                       
+                    '2a03:2880:f1ff:83:face:b00c:0:25de']                       
+rdns_names          ['edge-star-mini-shv-01-any2.facebook.com', 'edge-star-mini-
+                    shv-01-atl3.facebook.com', 'edge-star-mini-                 
+                    shv-01-dfw5.facebook.com', 'edge-star-mini-                 
+                    shv-01-lhr8.facebook.com', 'edge-star-mini-                 
+                    shv-01-mia3.facebook.com', 'edge-star-mini-                 
+                    shv-01-ort2.facebook.com', 'edge-star-mini-                 
+                    shv-02-mrs2.facebook.com', 'edge-star-mini-                 
+                    shv-02-ort2.facebook.com']                                  
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [28.268814086914062, 125.6716251373291]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: fandom.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+insecure_http       True                                                        
+ipv4_addresses      ['151.101.0.194', '151.101.128.194', '151.101.192.194',     
+                    '151.101.64.194']                                           
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             GlobalSign nv-sa                                            
+rtt_range           [17.957448959350586, 30.36046028137207]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2', 'TLSv1.3']                                      
+
+
+DOMAIN: fb.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Ireland', 'United States']                                
+hsts                True                                                        
+insecure_http       True                                                        
+ipv4_addresses      ['157.240.18.35', '157.240.195.35', '157.240.2.35',         
+                    '157.240.221.35', '31.13.65.36', '31.13.66.35',             
+                    '31.13.67.35', '69.171.250.35']                             
+ipv6_addresses      ['2a03:2880:f103:83:face:b00c:0:25de',                      
+                    '2a03:2880:f111:83:face:b00c:0:25de',                       
+                    '2a03:2880:f127:283:face:b00c:0:25de',                      
+                    '2a03:2880:f127:83:face:b00c:0:25de',                       
+                    '2a03:2880:f12c:83:face:b00c:0:25de',                       
+                    '2a03:2880:f142:82:face:b00c:0:25de',                       
+                    '2a03:2880:f158:82:face:b00c:0:25de',                       
+                    '2a03:2880:f1ff:83:face:b00c:0:25de']                       
+rdns_names          ['edge-star-mini-shv-01-any2.facebook.com', 'edge-star-mini-
+                    shv-01-atl3.facebook.com', 'edge-star-mini-                 
+                    shv-01-iad3.facebook.com', 'edge-star-mini-                 
+                    shv-01-lhr8.facebook.com', 'edge-star-mini-                 
+                    shv-01-mia3.facebook.com', 'edge-star-mini-                 
+                    shv-01-mrs2.facebook.com', 'edge-star-mini-                 
+                    shv-01-ort2.facebook.com', 'edge-star-mini-                 
+                    shv-02-ort2.facebook.com']                                  
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [20.607709884643555, 126.85370445251465]                    
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: finance.yahoo.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United Kingdom', 'United States']                         
+hsts                True                                                        
+http_server         ATS                                                         
+insecure_http       True                                                        
+ipv4_addresses      ['188.125.94.204', '188.125.94.206', '69.147.64.33',        
+                    '69.147.64.34', '69.147.82.60', '69.147.82.61',             
+                    '69.147.86.11', '69.147.86.12', '69.147.92.11',             
+                    '69.147.92.12']                                             
+ipv6_addresses      ['2001:4998:14:800::1000', '2001:4998:14:800::1001',        
+                    '2001:4998:1c:800::1000', '2001:4998:1c:800::1001',         
+                    '2001:4998:20:800::1000', '2001:4998:20:800::1001',         
+                    '2001:4998:60:800::1105', '2001:4998:60:800::1106',         
+                    '2a00:1288:80:800::7000', '2a00:1288:80:800::7001',         
+                    '2a00:1288:f032:1fa::2000', '2a00:1288:f032:1fa::4000']     
+rdns_names          ['e1-ha.ycpi.seb.yahoo.com', 'e1.ycpi.vip.cha.yahoo.com',   
+                    'e1.ycpi.vip.daa.yahoo.com', 'e1.ycpi.vip.dca.yahoo.com',   
+                    'e1.ycpi.vip.nya.yahoo.com', 'e2-ha.ycpi.seb.yahoo.com',    
+                    'e2.ycpi.vip.cha.yahoo.com', 'e2.ycpi.vip.daa.yahoo.com',   
+                    'e2.ycpi.vip.dca.yahoo.com', 'e2.ycpi.vip.nya.yahoo.com']   
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [32.22155570983887, 168.41936111450195]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: foodnetwork.com
+    Attribute                      Value                
+========================================================
+geo_locations       ['United States']                   
+hsts                False                               
+http_server         Apache                              
+insecure_http       True                                
+ipv4_addresses      ['204.78.50.45']                    
+ipv6_addresses      []                                  
+rdns_names          []                                  
+redirect_to_https   True                                
+rtt_range           [51.6819953918457, 51.6819953918457]
+scan_time           1.606e+09                           
+tls_versions        ['TLSv1.1', 'TLSv1.2']              
+
+
+DOMAIN: forbes.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+http_server         rhino-core-shield                                           
+insecure_http       True                                                        
+ipv4_addresses      ['151.101.130.49', '151.101.194.49', '151.101.2.49',        
+                    '151.101.66.49']                                            
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             GlobalSign nv-sa                                            
+rtt_range           [27.918577194213867, 182.12294578552246]                    
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2']                                                 
+
+
+DOMAIN: foxnews.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                True                                                        
+http_server         AkamaiGHost                                                 
+insecure_http       True                                                        
+ipv4_addresses      ['104.103.65.56', '104.126.113.91', '104.78.177.82',        
+                    '184.51.49.85', '23.215.185.14', '23.39.41.42',             
+                    '23.40.181.42', '23.52.164.29']                             
+ipv6_addresses      []                                                          
+rdns_names          ['a104-103-65-56.deploy.static.akamaitechnologies.com',     
+                    'a104-126-113-91.deploy.static.akamaitechnologies.com',     
+                    'a104-78-177-82.deploy.static.akamaitechnologies.com',      
+                    'a184-51-49-85.deploy.static.akamaitechnologies.com',       
+                    'a23-215-185-14.deploy.static.akamaitechnologies.com',      
+                    'a23-39-41-42.deploy.static.akamaitechnologies.com',        
+                    'a23-40-181-42.deploy.static.akamaitechnologies.com',       
+                    'a23-52-164-29.deploy.static.akamaitechnologies.com']       
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [28.621673583984375, 139.81938362121582]                    
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: gamepedia.com
+    Attribute                               Value                         
+==========================================================================
+geo_locations       ['United States']                                     
+hsts                False                                                 
+http_server         cloudflare                                            
+insecure_http       True                                                  
+ipv4_addresses      ['104.27.138.186', '104.27.139.186', '172.67.177.128']
+ipv6_addresses      []                                                    
+rdns_names          []                                                    
+redirect_to_https   True                                                  
+root_ca             Baltimore                                             
+rtt_range           [30.875682830810547, 35.471439361572266]              
+scan_time           1.606e+09                                             
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']                     
+
+
+DOMAIN: genius.com
+    Attribute                            Value                      
+====================================================================
+geo_locations       ['United States']                               
+hsts                False                                           
+http_server         cloudflare                                      
+insecure_http       True                                            
+ipv4_addresses      ['104.18.18.96', '104.18.19.96']                
+ipv6_addresses      ['2606:4700::6812:1260', '2606:4700::6812:1360']
+rdns_names          []                                              
+redirect_to_https   True                                            
+root_ca             Baltimore                                       
+rtt_range           [31.82530403137207, 32.52053260803223]          
+scan_time           1.606e+09                                       
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']               
+
+
+DOMAIN: glassdoor.com
+    Attribute                       Value                
+=========================================================
+geo_locations       ['United States']                    
+hsts                False                                
+http_server         cloudflare                           
+insecure_http       True                                 
+ipv4_addresses      ['104.17.90.51', '104.17.91.51']     
+ipv6_addresses      []                                   
+rdns_names          []                                   
+redirect_to_https   True                                 
+root_ca             Baltimore                            
+rtt_range           [26.42345428466797, 29.5560359954834]
+scan_time           1.606e+09                            
+tls_versions        ['TLSv1.2', 'TLSv1.3']               
+
+
+DOMAIN: go.com
+    Attribute                         Value                   
+==============================================================
+geo_locations       ['Council Bluffs, Iowa, United States']   
+hsts                False                                     
+insecure_http       True                                      
+ipv4_addresses      ['23.236.60.174']                         
+ipv6_addresses      []                                        
+rdns_names          ['174.60.236.23.bc.googleusercontent.com']
+redirect_to_https   False                                     
+scan_time           1.606e+09                                 
+tls_versions        []                                        
+
+
+DOMAIN: google.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Mountain View, California, United States', 'San Jose,     
+                    California, United States', 'United States']                
+hsts                False                                                       
+http_server         gws                                                         
+insecure_http       True                                                        
+ipv4_addresses      ['172.217.0.14', '172.217.12.206', '172.217.15.110',        
+                    '172.217.16.110', '172.217.17.46', '172.217.4.206',         
+                    '172.217.4.78', '172.217.5.14', '172.217.6.110',            
+                    '172.217.6.14', '216.239.38.120', '216.58.194.46',          
+                    '216.58.204.14']                                            
+ipv6_addresses      ['2607:f8b0:4000:816::200e', '2607:f8b0:4006:800::200e',    
+                    '2607:f8b0:4006:802::200e', '2607:f8b0:4006:81b::200e',     
+                    '2607:f8b0:4009:805::200e', '2607:f8b0:4009:806::200e',     
+                    '2607:f8b0:4009:810::200e', '2607:f8b0:4009:812::200e',     
+                    '2607:f8b0:4009:816::200e', '2a00:1450:4009:806::200e',     
+                    '2a00:1450:400d:808::200e', '2a00:1450:4010:c07::64',       
+                    '2a00:1450:4010:c07::71', '2a00:1450:4010:c07::8a',         
+                    '2a00:1450:4010:c07::8b']                                   
+rdns_names          ['ams16s29-in-f14.1e100.net', 'ams16s29-in-f46.1e100.net',  
+                    'any-in-2678.1e100.net', 'bud02s25-in-f14.1e100.net',       
+                    'dfw25s12-in-f14.1e100.net', 'dfw25s12-in-f46.1e100.net',   
+                    'iad30s21-in-f14.1e100.net', 'lga15s47-in-f78.1e100.net',   
+                    'lga15s48-in-f206.1e100.net', 'lga15s49-in-f14.1e100.net',  
+                    'lga25s63-in-f14.1e100.net', 'lhr35s07-in-f14.1e100.net',   
+                    'lhr48s21-in-f14.1e100.net', 'ord37s03-in-f110.1e100.net',  
+                    'ord37s03-in-f14.1e100.net', 'ord37s18-in-f14.1e100.net',   
+                    'ord37s19-in-f14.1e100.net', 'ord38s01-in-f14.1e100.net',   
+                    'ord38s04-in-f14.1e100.net', 'ord38s19-in-f14.1e100.net',   
+                    'prg02s12-in-f14.1e100.net']                                
+redirect_to_https   False                                                       
+root_ca             GlobalSign                                                  
+rtt_range           [23.049116134643555, 140.74349403381348]                    
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: groupon.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+http_server         AkamaiNetStorage                                            
+insecure_http       True                                                        
+ipv4_addresses      ['104.102.215.92', '104.72.130.117', '104.74.118.7',        
+                    '104.87.156.91', '104.92.250.179', '184.24.25.175',         
+                    '184.87.54.217', '23.2.161.76', '23.33.172.164',            
+                    '23.66.89.127']                                             
+ipv6_addresses      []                                                          
+rdns_names          ['a104-102-215-92.deploy.static.akamaitechnologies.com',    
+                    'a104-72-130-117.deploy.static.akamaitechnologies.com',     
+                    'a104-74-118-7.deploy.static.akamaitechnologies.com',       
+                    'a104-87-156-91.deploy.static.akamaitechnologies.com',      
+                    'a104-92-250-179.deploy.static.akamaitechnologies.com',     
+                    'a184-24-25-175.deploy.static.akamaitechnologies.com',      
+                    'a184-87-54-217.deploy.static.akamaitechnologies.com',      
+                    'a23-2-161-76.deploy.static.akamaitechnologies.com',        
+                    'a23-33-172-164.deploy.static.akamaitechnologies.com',      
+                    'a23-66-89-127.deploy.static.akamaitechnologies.com']       
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [22.849082946777344, 130.91683387756348]                    
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: healthline.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+http_server         AmazonS3                                                    
+insecure_http       True                                                        
+ipv4_addresses      ['13.225.65.103', '13.225.65.116', '13.225.65.49',          
+                    '13.225.65.79', '13.32.240.113', '13.32.240.119',           
+                    '13.32.240.12', '13.32.240.129', '143.204.10.125',          
+                    '143.204.10.17', '143.204.10.46', '143.204.10.90',          
+                    '52.84.53.105', '52.84.53.38', '52.84.53.60', '52.84.53.97',
+                    '52.85.83.127', '52.85.83.37', '52.85.83.69', '52.85.83.99',
+                    '54.230.18.106', '54.230.18.54', '54.230.18.8',             
+                    '54.230.18.93', '99.84.118.101', '99.84.118.118',           
+                    '99.84.118.125', '99.84.118.84', '99.86.100.29',            
+                    '99.86.100.50', '99.86.100.52', '99.86.100.79']             
+ipv6_addresses      []                                                          
+rdns_names          ['server-13-225-65-103.ewr53.r.cloudfront.net',             
+                    'server-13-225-65-116.ewr53.r.cloudfront.net',              
+                    'server-13-225-65-49.ewr53.r.cloudfront.net',               
+                    'server-13-225-65-79.ewr53.r.cloudfront.net',               
+                    'server-13-32-240-113.ams50.r.cloudfront.net',              
+                    'server-13-32-240-119.ams50.r.cloudfront.net',              
+                    'server-13-32-240-12.ams50.r.cloudfront.net',               
+                    'server-13-32-240-129.ams50.r.cloudfront.net',              
+                    'server-143-204-10-125.mxp64.r.cloudfront.net',             
+                    'server-143-204-10-17.mxp64.r.cloudfront.net',              
+                    'server-143-204-10-46.mxp64.r.cloudfront.net',              
+                    'server-143-204-10-90.mxp64.r.cloudfront.net',              
+                    'server-52-84-53-105.ord53.r.cloudfront.net',               
+                    'server-52-84-53-38.ord53.r.cloudfront.net',                
+                    'server-52-84-53-60.ord53.r.cloudfront.net',                
+                    'server-52-84-53-97.ord53.r.cloudfront.net',                
+                    'server-52-85-83-127.atl56.r.cloudfront.net',               
+                    'server-52-85-83-37.atl56.r.cloudfront.net',                
+                    'server-52-85-83-69.atl56.r.cloudfront.net',                
+                    'server-52-85-83-99.atl56.r.cloudfront.net',                
+                    'server-54-230-18-106.ord51.r.cloudfront.net',              
+                    'server-54-230-18-54.ord51.r.cloudfront.net',               
+                    'server-54-230-18-8.ord51.r.cloudfront.net',                
+                    'server-54-230-18-93.ord51.r.cloudfront.net',               
+                    'server-99-84-118-101.ewr52.r.cloudfront.net',              
+                    'server-99-84-118-118.ewr52.r.cloudfront.net',              
+                    'server-99-84-118-125.ewr52.r.cloudfront.net',              
+                    'server-99-84-118-84.ewr52.r.cloudfront.net',               
+                    'server-99-86-100-29.iah50.r.cloudfront.net',               
+                    'server-99-86-100-50.iah50.r.cloudfront.net',               
+                    'server-99-86-100-52.iah50.r.cloudfront.net',               
+                    'server-99-86-100-79.iah50.r.cloudfront.net']               
+redirect_to_https   True                                                        
+root_ca             "GoDaddy.com                                                
+rtt_range           [19.448280334472656, 221.3730812072754]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.1', 'TLSv1.2', 'TLSv1.3']                           
+
+
+DOMAIN: homedepot.com
+    Attribute                         Value                  
+=============================================================
+geo_locations       ['Kansas City, Missouri, United States'] 
+hsts                False                                    
+http_server         nginx                                    
+insecure_http       True                                     
+ipv4_addresses      ['35.201.95.83']                         
+ipv6_addresses      []                                       
+rdns_names          ['83.95.201.35.bc.googleusercontent.com']
+redirect_to_https   True                                     
+root_ca             "Entrust                                 
+rtt_range           [33.58197212219238, 33.58197212219238]   
+scan_time           1.606e+09                                
+tls_versions        ['TLSv1.1', 'TLSv1.2', 'TLSv1.3']        
+
+
+DOMAIN: huffpost.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Singapore', 'United Kingdom', 'United States']            
+hsts                True                                                        
+http_server         ATS                                                         
+insecure_http       True                                                        
+ipv4_addresses      ['106.10.248.150', '124.108.115.100', '212.82.100.150',     
+                    '74.6.136.150', '98.136.103.23']                            
+ipv6_addresses      []                                                          
+rdns_names          ['addit2.com', 'adinterax.com', 'foxytunes.com']            
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [68.07279586791992, 263.17477226257324]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: hulu.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+http_server         envoy                                                       
+insecure_http       True                                                        
+ipv4_addresses      ['104.105.46.63', '104.117.27.174', '104.74.141.113',       
+                    '104.95.51.118', '23.198.248.48', '23.5.245.60',            
+                    '23.5.32.234', '23.7.118.37', '23.79.218.238']              
+ipv6_addresses      []                                                          
+rdns_names          ['a104-105-46-63.deploy.static.akamaitechnologies.com',     
+                    'a104-117-27-174.deploy.static.akamaitechnologies.com',     
+                    'a104-74-141-113.deploy.static.akamaitechnologies.com',     
+                    'a104-95-51-118.deploy.static.akamaitechnologies.com',      
+                    'a23-198-248-48.deploy.static.akamaitechnologies.com',      
+                    'a23-5-245-60.deploy.static.akamaitechnologies.com',        
+                    'a23-5-32-234.deploy.static.akamaitechnologies.com',        
+                    'a23-7-118-37.deploy.static.akamaitechnologies.com',        
+                    'a23-79-218-238.deploy.static.akamaitechnologies.com']      
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [48.81882667541504, 181.94890022277832]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']                           
+
+
+DOMAIN: ign.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Ashburn, Virginia, United States', 'United States']       
+hsts                True                                                        
+insecure_http       True                                                        
+ipv4_addresses      ['52.200.89.197', '52.3.55.210', '54.243.174.224']          
+ipv6_addresses      []                                                          
+rdns_names          ['ec2-52-200-89-197.compute-1.amazonaws.com',               
+                    'ec2-52-3-55-210.compute-1.amazonaws.com',                  
+                    'ec2-54-243-174-224.compute-1.amazonaws.com']               
+redirect_to_https   False                                                       
+root_ca             Amazon                                                      
+rtt_range           [45.877933502197266, 54.47697639465332]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']                           
+
+
+DOMAIN: imdb.com
+    Attribute                             Value                       
+======================================================================
+geo_locations       ['Ashburn, Virginia, United States']              
+hsts                True                                              
+http_server         Server                                            
+insecure_http       True                                              
+ipv4_addresses      ['52.94.225.248', '52.94.228.167', '52.94.237.74']
+ipv6_addresses      []                                                
+rdns_names          []                                                
+redirect_to_https   True                                              
+root_ca             Amazon                                            
+rtt_range           [40.82918167114258, 51.17034912109375]            
+scan_time           1.606e+09                                         
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']                 
+
+
+DOMAIN: indeed.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Ashburn, Virginia, United States', 'Columbus, Ohio, United
+                    States', 'Pacifica, California, United States']             
+hsts                False                                                       
+http_server         nginx                                                       
+insecure_http       True                                                        
+ipv4_addresses      ['169.44.159.200', '169.45.207.200', '18.216.114.70',       
+                    '18.218.22.89', '3.17.53.43']                               
+ipv6_addresses      []                                                          
+rdns_names          ['c8.9f.2ca9.ip4.static.sl-reverse.com',                    
+                    'c8.cf.2da9.ip4.static.sl-reverse.com',                     
+                    'ec2-18-216-114-70.us-east-2.compute.amazonaws.com',        
+                    'ec2-18-218-22-89.us-east-2.compute.amazonaws.com',         
+                    'ec2-3-17-53-43.us-east-2.compute.amazonaws.com']           
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [33.251285552978516, 70.96338272094727]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2']                                                 
+
+
+DOMAIN: instagram.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Arlington, Virginia, United States', 'Ashburn, Virginia,  
+                    United States', 'Elkridge, Maryland, United States',        
+                    'Hollywood, Florida, United States', 'Townsend, Delaware,   
+                    United States', 'United States', 'Virginia, United States'] 
+hsts                True                                                        
+insecure_http       True                                                        
+ipv4_addresses      ['18.214.241.0', '23.21.243.114', '3.208.218.29',           
+                    '3.208.232.245', '3.209.182.35', '3.209.3.232',             
+                    '3.210.196.55', '3.210.57.193', '3.211.190.38',             
+                    '3.211.195.191', '3.213.147.143', '3.214.207.247',          
+                    '3.216.50.20', '3.217.178.33', '3.218.162.209',             
+                    '3.218.3.143', '3.219.90.152', '3.220.76.115',              
+                    '3.220.83.93', '3.223.111.137', '3.223.116.9',              
+                    '3.224.217.26', '3.224.3.80', '3.225.109.3', '3.225.55.231',
+                    '3.228.78.219', '3.232.148.177', '3.91.121.236',            
+                    '3.92.105.183', '3.92.39.245', '34.192.95.2',               
+                    '34.194.88.13', '34.196.54.210', '34.197.202.126',          
+                    '34.198.216.139', '34.199.240.222', '34.206.33.202',        
+                    '34.226.144.190', '34.227.122.11', '34.228.172.19',         
+                    '34.230.186.253', '34.235.180.162', '34.239.18.154',        
+                    '35.168.171.252', '35.170.160.105', '35.171.109.191',       
+                    '35.173.151.18', '52.0.103.197', '52.0.135.38',             
+                    '52.0.212.144', '52.0.37.128', '52.200.201.185',            
+                    '52.201.106.96', '52.202.74.127', '52.207.170.164',         
+                    '52.22.200.157', '52.3.102.88', '52.45.116.207',            
+                    '52.5.183.1', '52.5.220.246', '52.5.39.111', '52.54.142.16',
+                    '52.71.223.34', '52.73.249.1', '54.145.10.249',             
+                    '54.145.49.123', '54.156.178.64', '54.157.88.207',          
+                    '54.160.61.145', '54.172.200.155', '54.204.115.52',         
+                    '54.235.179.196', '54.80.100.38', '54.83.139.7',            
+                    '54.85.7.239']                                              
+ipv6_addresses      ['2406:da00:ff00::12d6:9608', '2406:da00:ff00::12eb:5d9b',  
+                    '2406:da00:ff00::1715:f372', '2406:da00:ff00::22c0:5f02',   
+                    '2406:da00:ff00::22c1:5f2', '2406:da00:ff00::22c2:580d',    
+                    '2406:da00:ff00::22c3:3ba', '2406:da00:ff00::22c3:ad7a',    
+                    '2406:da00:ff00::22c5:42a5', '2406:da00:ff00::22c7:8eeb',   
+                    '2406:da00:ff00::22c7:f0de', '2406:da00:ff00::22c8:2339',   
+                    '2406:da00:ff00::22ce:9f2b', '2406:da00:ff00::22e3:85b3',   
+                    '2406:da00:ff00::22e4:ac13', '2406:da00:ff00::22e8:25e0',   
+                    '2406:da00:ff00::22eb:b4a2', '2406:da00:ff00::22ed:c8d5',   
+                    '2406:da00:ff00::22ee:41d3', '2406:da00:ff00::22ee:ad51',   
+                    '2406:da00:ff00::22ef:129a', '2406:da00:ff00::23a8:abfc',   
+                    '2406:da00:ff00::23ab:6dbf', '2406:da00:ff00::23ad:39e',    
+                    '2406:da00:ff00::23ad:9712', '2406:da00:ff00::23ad:a6c8',   
+                    '2406:da00:ff00::23ad:a7fd', '2406:da00:ff00::3400:260d',   
+                    '2406:da00:ff00::3400:8726', '2406:da00:ff00::3401:221a',   
+                    '2406:da00:ff00::3401:7c0d', '2406:da00:ff00::3402:961c',   
+                    '2406:da00:ff00::3402:a426', '2406:da00:ff00::3402:e47',    
+                    '2406:da00:ff00::3403:129a', '2406:da00:ff00::3404:8691',   
+                    '2406:da00:ff00::3405:276f', '2406:da00:ff00::3405:b701',   
+                    '2406:da00:ff00::3405:c7a0', '2406:da00:ff00::3406:bf00',   
+                    '2406:da00:ff00::3407:b8b1', '2406:da00:ff00::3407:c736',   
+                    '2406:da00:ff00::3417:834f', '2406:da00:ff00::342d:74cf',   
+                    '2406:da00:ff00::3447:4a6b', '2406:da00:ff00::3447:9a66',   
+                    '2406:da00:ff00::3447:d391', '2406:da00:ff00::3448:c5df',   
+                    '2406:da00:ff00::3449:8b59', '2406:da00:ff00::34c8:c9b9',   
+                    '2406:da00:ff00::34c9:6a60', '2406:da00:ff00::34cc:be9d',   
+                    '2406:da00:ff00::34cf:5f31', '2406:da00:ff00::34cf:aaa4',   
+                    '2406:da00:ff00::35c:69b7', '2406:da00:ff00::3650:6426',    
+                    '2406:da00:ff00::3651:50bd', '2406:da00:ff00::3653:8b07',   
+                    '2406:da00:ff00::3653:bae1', '2406:da00:ff00::3655:7ef',    
+                    '2406:da00:ff00::3691:317b', '2406:da00:ff00::36a5:42a',    
+                    '2406:da00:ff00::36ac:c89b', '2406:da00:ff00::3d0:da1d',    
+                    '2406:da00:ff00::3d1:4126', '2406:da00:ff00::3d1:b623',     
+                    '2406:da00:ff00::3d2:39c1', '2406:da00:ff00::3d2:c437',     
+                    '2406:da00:ff00::3d3:c3bf', '2406:da00:ff00::3d4:d309',     
+                    '2406:da00:ff00::3d5:938f', '2406:da00:ff00::3d6:b699',     
+                    '2406:da00:ff00::3d6:cff7', '2406:da00:ff00::3d6:f22d',     
+                    '2406:da00:ff00::3d8:3214', '2406:da00:ff00::3d9:45ef',     
+                    '2406:da00:ff00::3da:a2d1', '2406:da00:ff00::3dc:4c73',     
+                    '2406:da00:ff00::3de:2b1a', '2406:da00:ff00::3df:7409',     
+                    '2406:da00:ff00::3e0:2412', '2406:da00:ff00::3e0:350',      
+                    '2406:da00:ff00::3e1:37e7', '2406:da00:ff00::3e1:6d03',     
+                    '2406:da00:ff00::3e2:6f5d', '2406:da00:ff00::3ea:43c4']     
+rdns_names          ['ec2-18-214-241-0.compute-1.amazonaws.com',                
+                    'ec2-23-21-243-114.compute-1.amazonaws.com',                
+                    'ec2-3-208-218-29.compute-1.amazonaws.com',                 
+                    'ec2-3-208-232-245.compute-1.amazonaws.com',                
+                    'ec2-3-209-182-35.compute-1.amazonaws.com',                 
+                    'ec2-3-209-3-232.compute-1.amazonaws.com',                  
+                    'ec2-3-210-196-55.compute-1.amazonaws.com',                 
+                    'ec2-3-210-57-193.compute-1.amazonaws.com',                 
+                    'ec2-3-211-190-38.compute-1.amazonaws.com',                 
+                    'ec2-3-211-195-191.compute-1.amazonaws.com',                
+                    'ec2-3-213-147-143.compute-1.amazonaws.com',                
+                    'ec2-3-214-207-247.compute-1.amazonaws.com',                
+                    'ec2-3-216-50-20.compute-1.amazonaws.com',                  
+                    'ec2-3-217-178-33.compute-1.amazonaws.com',                 
+                    'ec2-3-218-162-209.compute-1.amazonaws.com',                
+                    'ec2-3-218-3-143.compute-1.amazonaws.com',                  
+                    'ec2-3-219-90-152.compute-1.amazonaws.com',                 
+                    'ec2-3-220-76-115.compute-1.amazonaws.com',                 
+                    'ec2-3-220-83-93.compute-1.amazonaws.com',                  
+                    'ec2-3-223-111-137.compute-1.amazonaws.com',                
+                    'ec2-3-223-116-9.compute-1.amazonaws.com',                  
+                    'ec2-3-224-217-26.compute-1.amazonaws.com',                 
+                    'ec2-3-224-3-80.compute-1.amazonaws.com',                   
+                    'ec2-3-225-109-3.compute-1.amazonaws.com',                  
+                    'ec2-3-225-55-231.compute-1.amazonaws.com',                 
+                    'ec2-3-228-78-219.compute-1.amazonaws.com',                 
+                    'ec2-3-232-148-177.compute-1.amazonaws.com',                
+                    'ec2-3-91-121-236.compute-1.amazonaws.com',                 
+                    'ec2-3-92-105-183.compute-1.amazonaws.com',                 
+                    'ec2-3-92-39-245.compute-1.amazonaws.com',                  
+                    'ec2-34-192-95-2.compute-1.amazonaws.com',                  
+                    'ec2-34-194-88-13.compute-1.amazonaws.com',                 
+                    'ec2-34-196-54-210.compute-1.amazonaws.com',                
+                    'ec2-34-197-202-126.compute-1.amazonaws.com',               
+                    'ec2-34-198-216-139.compute-1.amazonaws.com',               
+                    'ec2-34-199-240-222.compute-1.amazonaws.com',               
+                    'ec2-34-206-33-202.compute-1.amazonaws.com',                
+                    'ec2-34-226-144-190.compute-1.amazonaws.com',               
+                    'ec2-34-227-122-11.compute-1.amazonaws.com',                
+                    'ec2-34-228-172-19.compute-1.amazonaws.com',                
+                    'ec2-34-230-186-253.compute-1.amazonaws.com',               
+                    'ec2-34-235-180-162.compute-1.amazonaws.com',               
+                    'ec2-34-239-18-154.compute-1.amazonaws.com',                
+                    'ec2-35-168-171-252.compute-1.amazonaws.com',               
+                    'ec2-35-170-160-105.compute-1.amazonaws.com',               
+                    'ec2-35-171-109-191.compute-1.amazonaws.com',               
+                    'ec2-35-173-151-18.compute-1.amazonaws.com',                
+                    'ec2-52-0-103-197.compute-1.amazonaws.com',                 
+                    'ec2-52-0-135-38.compute-1.amazonaws.com',                  
+                    'ec2-52-0-212-144.compute-1.amazonaws.com',                 
+                    'ec2-52-0-37-128.compute-1.amazonaws.com',                  
+                    'ec2-52-200-201-185.compute-1.amazonaws.com',               
+                    'ec2-52-201-106-96.compute-1.amazonaws.com',                
+                    'ec2-52-202-74-127.compute-1.amazonaws.com',                
+                    'ec2-52-207-170-164.compute-1.amazonaws.com',               
+                    'ec2-52-22-200-157.compute-1.amazonaws.com',                
+                    'ec2-52-3-102-88.compute-1.amazonaws.com',                  
+                    'ec2-52-45-116-207.compute-1.amazonaws.com',                
+                    'ec2-52-5-183-1.compute-1.amazonaws.com',                   
+                    'ec2-52-5-220-246.compute-1.amazonaws.com',                 
+                    'ec2-52-5-39-111.compute-1.amazonaws.com',                  
+                    'ec2-52-54-142-16.compute-1.amazonaws.com',                 
+                    'ec2-52-71-223-34.compute-1.amazonaws.com',                 
+                    'ec2-52-73-249-1.compute-1.amazonaws.com',                  
+                    'ec2-54-145-10-249.compute-1.amazonaws.com',                
+                    'ec2-54-145-49-123.compute-1.amazonaws.com',                
+                    'ec2-54-156-178-64.compute-1.amazonaws.com',                
+                    'ec2-54-157-88-207.compute-1.amazonaws.com',                
+                    'ec2-54-160-61-145.compute-1.amazonaws.com',                
+                    'ec2-54-172-200-155.compute-1.amazonaws.com',               
+                    'ec2-54-204-115-52.compute-1.amazonaws.com',                
+                    'ec2-54-235-179-196.compute-1.amazonaws.com',               
+                    'ec2-54-80-100-38.compute-1.amazonaws.com',                 
+                    'ec2-54-83-139-7.compute-1.amazonaws.com',                  
+                    'ec2-54-85-7-239.compute-1.amazonaws.com']                  
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [40.28749465942383, 89.99466896057129]                      
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: investopedia.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                True                                                        
+insecure_http       True                                                        
+ipv4_addresses      ['151.101.130.137', '151.101.194.137', '151.101.2.137',     
+                    '151.101.66.137']                                           
+ipv6_addresses      ['2a04:4e42:200::649', '2a04:4e42:400::649',                
+                    '2a04:4e42:600::649', '2a04:4e42::649']                     
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             Digital Signature Trust Co.                                 
+rtt_range           [21.642208099365234, 48.5224723815918]                      
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2', 'TLSv1.3']                                      
+
+
+DOMAIN: irs.gov
+    Attribute                             Value                       
+======================================================================
+geo_locations       ['Detroit, Michigan, United States']              
+hsts                True                                              
+insecure_http       False                                             
+ipv4_addresses      ['152.216.11.110', '152.216.7.110']               
+ipv6_addresses      ['2610:30:2000:402::110', '2610:30:4000:402::110']
+rdns_names          ['irs.gov']                                       
+redirect_to_https   True                                              
+root_ca             "Entrust                                          
+rtt_range           [66.64824485778809, 71.09498977661133]            
+scan_time           1.606e+09                                         
+tls_versions        ['TLSv1.2']                                       
+
+
+DOMAIN: linkedin.com
+    Attribute                        Value                  
+============================================================
+geo_locations       ['United States']                       
+hsts                True                                    
+insecure_http       True                                    
+ipv4_addresses      ['108.174.10.10']                       
+ipv6_addresses      ['2620:109:c002::6cae:a0a']             
+rdns_names          ['108-174-10-10.fwd.linkedin.com']      
+redirect_to_https   True                                    
+root_ca             DigiCert Inc                            
+rtt_range           [39.795637130737305, 39.795637130737305]
+scan_time           1.606e+09                               
+tls_versions        ['TLSv1.2']                             
+
+
+DOMAIN: live.com
+    Attribute                        Value                  
+============================================================
+geo_locations       ['United States']                       
+hsts                True                                    
+http_server         Microsoft-IIS/10.0                      
+insecure_http       True                                    
+ipv4_addresses      ['204.79.197.212']                      
+ipv6_addresses      []                                      
+rdns_names          ['a-0010.a-msedge.net']                 
+redirect_to_https   True                                    
+root_ca             DigiCert Inc                            
+rtt_range           [21.539926528930664, 21.539926528930664]
+scan_time           1.606e+09                               
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']       
+
+
+DOMAIN: lowes.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Palm Springs, California, United States', 'United States']
+hsts                True                                                        
+http_server         AkamaiGHost                                                 
+insecure_http       True                                                        
+ipv4_addresses      ['184.27.220.195', '184.29.132.120', '184.51.132.156',      
+                    '23.193.16.149', '23.201.48.118', '23.202.192.74',          
+                    '23.202.233.36', '23.212.144.137', '23.218.102.235',        
+                    '23.223.252.121', '23.60.170.177']                          
+ipv6_addresses      []                                                          
+rdns_names          ['a184-27-220-195.deploy.static.akamaitechnologies.com',    
+                    'a184-29-132-120.deploy.static.akamaitechnologies.com',     
+                    'a184-51-132-156.deploy.static.akamaitechnologies.com',     
+                    'a23-193-16-149.deploy.static.akamaitechnologies.com',      
+                    'a23-201-48-118.deploy.static.akamaitechnologies.com',      
+                    'a23-202-192-74.deploy.static.akamaitechnologies.com',      
+                    'a23-202-233-36.deploy.static.akamaitechnologies.com',      
+                    'a23-212-144-137.deploy.static.akamaitechnologies.com',     
+                    'a23-218-102-235.deploy.static.akamaitechnologies.com',     
+                    'a23-223-252-121.deploy.static.akamaitechnologies.com',     
+                    'a23-60-170-177.deploy.static.akamaitechnologies.com']      
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [22.65000343322754, 139.91022109985352]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2', 'TLSv1.3']                                      
+
+
+DOMAIN: macys.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['', 'United States']                                       
+hsts                False                                                       
+http_server         AkamaiNetStorage                                            
+insecure_http       True                                                        
+ipv4_addresses      ['104.114.164.225', '104.123.200.215', '104.86.184.222',    
+                    '104.95.252.173', '184.26.81.19', '23.213.164.210',         
+                    '23.215.184.173', '23.39.40.193', '23.54.148.221',          
+                    '92.123.56.204']                                            
+ipv6_addresses      []                                                          
+rdns_names          ['a104-114-164-225.deploy.static.akamaitechnologies.com',   
+                    'a104-123-200-215.deploy.static.akamaitechnologies.com',    
+                    'a104-86-184-222.deploy.static.akamaitechnologies.com',     
+                    'a104-95-252-173.deploy.static.akamaitechnologies.com',     
+                    'a184-26-81-19.deploy.static.akamaitechnologies.com',       
+                    'a23-213-164-210.deploy.static.akamaitechnologies.com',     
+                    'a23-215-184-173.deploy.static.akamaitechnologies.com',     
+                    'a23-39-40-193.deploy.static.akamaitechnologies.com',       
+                    'a23-54-148-221.deploy.static.akamaitechnologies.com',      
+                    'a92-123-56-204.deploy.static.akamaitechnologies.com']      
+redirect_to_https   True                                                        
+root_ca             The USERTRUST Network                                       
+rtt_range           [32.74202346801758, 220.6275463104248]                      
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.1', 'TLSv1.2', 'TLSv1.3']                           
+
+
+DOMAIN: mail.yahoo.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United Kingdom', 'United States']                         
+hsts                True                                                        
+http_server         ATS                                                         
+insecure_http       True                                                        
+ipv4_addresses      ['188.125.94.204', '188.125.94.206', '69.147.64.33',        
+                    '69.147.64.34', '69.147.82.60', '69.147.82.61',             
+                    '69.147.86.11', '69.147.86.12', '69.147.92.11',             
+                    '69.147.92.12', '87.248.118.22', '87.248.118.23']           
+ipv6_addresses      ['2001:4998:14:800::1000', '2001:4998:14:800::1001',        
+                    '2001:4998:1c:800::1000', '2001:4998:1c:800::1001',         
+                    '2001:4998:20:800::1000', '2001:4998:20:800::1001',         
+                    '2001:4998:60:800::1105', '2001:4998:60:800::1106',         
+                    '2a00:1288:80:800::7000', '2a00:1288:80:800::7001',         
+                    '2a00:1288:f032:1fa::2000', '2a00:1288:f032:1fa::4000']     
+rdns_names          ['e1-ha.ycpi.seb.yahoo.com', 'e1.ycpi.vip.cha.yahoo.com',   
+                    'e1.ycpi.vip.daa.yahoo.com', 'e1.ycpi.vip.dca.yahoo.com',   
+                    'e1.ycpi.vip.deb.yahoo.com', 'e1.ycpi.vip.nya.yahoo.com',   
+                    'e2-ha.ycpi.seb.yahoo.com', 'e2.ycpi.vip.cha.yahoo.com',    
+                    'e2.ycpi.vip.daa.yahoo.com', 'e2.ycpi.vip.dca.yahoo.com',   
+                    'e2.ycpi.vip.deb.yahoo.com', 'e2.ycpi.vip.nya.yahoo.com']   
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [24.951457977294922, 171.45919799804688]                    
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: mapquest.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Ashburn, Virginia, United States', 'Edison, New Jersey,   
+                    United States', 'United States']                            
+hsts                True                                                        
+http_server         Apache                                                      
+insecure_http       True                                                        
+ipv4_addresses      ['34.230.93.68', '34.231.156.243', '35.161.122.32',         
+                    '35.161.225.123', '52.32.64.89', '54.210.60.225']           
+ipv6_addresses      []                                                          
+rdns_names          ['ec2-34-230-93-68.compute-1.amazonaws.com',                
+                    'ec2-34-231-156-243.compute-1.amazonaws.com',               
+                    'ec2-35-161-122-32.us-west-2.compute.amazonaws.com',        
+                    'ec2-35-161-225-123.us-west-2.compute.amazonaws.com',       
+                    'ec2-52-32-64-89.us-west-2.compute.amazonaws.com',          
+                    'ec2-54-210-60-225.compute-1.amazonaws.com']                
+redirect_to_https   True                                                        
+root_ca             Amazon                                                      
+rtt_range           [42.48046875, 132.6138973236084]                            
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']                           
+
+
+DOMAIN: mayoclinic.org
+    Attribute                          Value                   
+===============================================================
+geo_locations       ['United States']                          
+hsts                False                                      
+http_server         Microsoft-IIS/10.0                         
+insecure_http       True                                       
+ipv4_addresses      ['129.176.1.88']                           
+ipv6_addresses      []                                         
+rdns_names          ['mayoclinic.org', 'mwredirects5.mayo.edu']
+redirect_to_https   True                                       
+root_ca             The USERTRUST Network                      
+rtt_range           [57.29842185974121, 57.29842185974121]     
+scan_time           1.606e+09                                  
+tls_versions        ['TLSv1.1', 'TLSv1.2']                     
+
+
+DOMAIN: medicalnewstoday.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+http_server         AmazonS3                                                    
+insecure_http       True                                                        
+ipv4_addresses      ['13.224.241.112', '13.224.241.16', '13.224.241.53',        
+                    '13.224.241.80', '13.225.65.16', '13.225.65.31',            
+                    '13.225.65.51', '13.225.65.82', '13.226.18.103',            
+                    '13.226.18.31', '13.226.18.56', '13.226.18.99',             
+                    '13.32.182.120', '13.32.182.122', '13.32.182.125',          
+                    '13.32.182.93', '143.204.10.28', '143.204.10.37',           
+                    '143.204.10.45', '143.204.10.75', '52.84.16.24',            
+                    '52.84.16.79', '52.84.16.86', '52.84.16.89',                
+                    '54.230.252.111', '54.230.252.17', '54.230.252.22',         
+                    '54.230.252.58', '99.84.39.14', '99.84.39.18',              
+                    '99.84.39.34', '99.84.39.88']                               
+ipv6_addresses      []                                                          
+rdns_names          ['server-13-224-241-112.lhr62.r.cloudfront.net',            
+                    'server-13-224-241-16.lhr62.r.cloudfront.net',              
+                    'server-13-224-241-53.lhr62.r.cloudfront.net',              
+                    'server-13-224-241-80.lhr62.r.cloudfront.net',              
+                    'server-13-225-65-16.ewr53.r.cloudfront.net',               
+                    'server-13-225-65-31.ewr53.r.cloudfront.net',               
+                    'server-13-225-65-51.ewr53.r.cloudfront.net',               
+                    'server-13-225-65-82.ewr53.r.cloudfront.net',               
+                    'server-13-226-18-103.ord51.r.cloudfront.net',              
+                    'server-13-226-18-31.ord51.r.cloudfront.net',               
+                    'server-13-226-18-56.ord51.r.cloudfront.net',               
+                    'server-13-226-18-99.ord51.r.cloudfront.net',               
+                    'server-13-32-182-120.iad66.r.cloudfront.net',              
+                    'server-13-32-182-122.iad66.r.cloudfront.net',              
+                    'server-13-32-182-125.iad66.r.cloudfront.net',              
+                    'server-13-32-182-93.iad66.r.cloudfront.net',               
+                    'server-143-204-10-28.mxp64.r.cloudfront.net',              
+                    'server-143-204-10-37.mxp64.r.cloudfront.net',              
+                    'server-143-204-10-45.mxp64.r.cloudfront.net',              
+                    'server-143-204-10-75.mxp64.r.cloudfront.net',              
+                    'server-52-84-16-24.ord53.r.cloudfront.net',                
+                    'server-52-84-16-79.ord53.r.cloudfront.net',                
+                    'server-52-84-16-86.ord53.r.cloudfront.net',                
+                    'server-52-84-16-89.ord53.r.cloudfront.net',                
+                    'server-54-230-252-111.atl56.r.cloudfront.net',             
+                    'server-54-230-252-17.atl56.r.cloudfront.net',              
+                    'server-54-230-252-22.atl56.r.cloudfront.net',              
+                    'server-54-230-252-58.atl56.r.cloudfront.net',              
+                    'server-99-84-39-14.ewr52.r.cloudfront.net',                
+                    'server-99-84-39-18.ewr52.r.cloudfront.net',                
+                    'server-99-84-39-34.ewr52.r.cloudfront.net',                
+                    'server-99-84-39-88.ewr52.r.cloudfront.net']                
+redirect_to_https   True                                                        
+root_ca             "GoDaddy.com                                                
+rtt_range           [22.651195526123047, 204.06699180603027]                    
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.1', 'TLSv1.2', 'TLSv1.3']                           
+
+
+DOMAIN: merriam-webster.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+http_server         Apache                                                      
+insecure_http       True                                                        
+ipv4_addresses      ['13.225.209.118', '13.225.209.123', '13.225.209.52',       
+                    '13.225.209.97', '13.226.18.100', '13.226.18.126',          
+                    '13.226.18.16', '13.226.18.5', '143.204.10.118',            
+                    '143.204.10.125', '143.204.10.48', '143.204.10.65',         
+                    '143.204.151.11', '143.204.151.128', '143.204.151.43',      
+                    '143.204.151.92', '52.84.145.103', '52.84.145.37',          
+                    '52.84.145.61', '52.84.145.90', '54.230.175.129',           
+                    '54.230.175.15', '54.230.175.3', '54.230.175.56',           
+                    '99.84.221.101', '99.84.221.126', '99.84.221.24',           
+                    '99.84.221.97', '99.86.84.38', '99.86.84.6', '99.86.84.86', 
+                    '99.86.84.87']                                              
+ipv6_addresses      []                                                          
+rdns_names          ['server-13-225-209-118.ewr50.r.cloudfront.net',            
+                    'server-13-225-209-123.ewr50.r.cloudfront.net',             
+                    'server-13-225-209-52.ewr50.r.cloudfront.net',              
+                    'server-13-225-209-97.ewr50.r.cloudfront.net',              
+                    'server-13-226-18-100.ord51.r.cloudfront.net',              
+                    'server-13-226-18-126.ord51.r.cloudfront.net',              
+                    'server-13-226-18-16.ord51.r.cloudfront.net',               
+                    'server-13-226-18-5.ord51.r.cloudfront.net',                
+                    'server-143-204-10-118.mxp64.r.cloudfront.net',             
+                    'server-143-204-10-125.mxp64.r.cloudfront.net',             
+                    'server-143-204-10-48.mxp64.r.cloudfront.net',              
+                    'server-143-204-10-65.mxp64.r.cloudfront.net',              
+                    'server-143-204-151-11.ewr52.r.cloudfront.net',             
+                    'server-143-204-151-128.ewr52.r.cloudfront.net',            
+                    'server-143-204-151-43.ewr52.r.cloudfront.net',             
+                    'server-143-204-151-92.ewr52.r.cloudfront.net',             
+                    'server-52-84-145-103.ord53.r.cloudfront.net',              
+                    'server-52-84-145-37.ord53.r.cloudfront.net',               
+                    'server-52-84-145-61.ord53.r.cloudfront.net',               
+                    'server-52-84-145-90.ord53.r.cloudfront.net',               
+                    'server-54-230-175-129.nrt57.r.cloudfront.net',             
+                    'server-54-230-175-15.nrt57.r.cloudfront.net',              
+                    'server-54-230-175-3.nrt57.r.cloudfront.net',               
+                    'server-54-230-175-56.nrt57.r.cloudfront.net',              
+                    'server-99-84-221-101.iad79.r.cloudfront.net',              
+                    'server-99-84-221-126.iad79.r.cloudfront.net',              
+                    'server-99-84-221-24.iad79.r.cloudfront.net',               
+                    'server-99-84-221-97.iad79.r.cloudfront.net',               
+                    'server-99-86-84-38.iah50.r.cloudfront.net',                
+                    'server-99-86-84-6.iah50.r.cloudfront.net',                 
+                    'server-99-86-84-86.iah50.r.cloudfront.net',                
+                    'server-99-86-84-87.iah50.r.cloudfront.net']                
+redirect_to_https   True                                                        
+root_ca             Amazon                                                      
+rtt_range           [22.009849548339844, 190.39583206176758]                    
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.1', 'TLSv1.2', 'TLSv1.3']                           
+
+
+DOMAIN: microsoft.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Des Moines, Iowa, United States', 'Dublin, Leinster,      
+                    Ireland', 'Singapore, Singapore', 'Washington, United       
+                    States', 'Washington, Virginia, United States']             
+hsts                False                                                       
+http_server         AkamaiGHost                                                 
+insecure_http       True                                                        
+ipv4_addresses      ['104.215.148.63', '13.77.161.179', '40.112.72.205',        
+                    '40.113.200.201', '40.76.4.15']                             
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             Baltimore                                                   
+rtt_range           [47.12319374084473, 288.26022148132324]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2', 'TLSv1.3']                                      
+
+
+DOMAIN: msn.com
+    Attribute                        Value                 
+===========================================================
+geo_locations       ['Washington, Virginia, United States']
+hsts                False                                  
+insecure_http       True                                   
+ipv4_addresses      ['13.82.28.61']                        
+ipv6_addresses      []                                     
+rdns_names          []                                     
+redirect_to_https   False                                  
+root_ca             Baltimore                              
+rtt_range           [48.28500747680664, 48.28500747680664] 
+scan_time           1.606e+09                              
+tls_versions        ['TLSv1.1', 'TLSv1.2']                 
+
+
+DOMAIN: netflix.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Ashburn, Virginia, United States', 'Dublin, Leinster,     
+                    Ireland', 'United States']                                  
+hsts                True                                                        
+http_server         nq_website_nonmember-prod-release                           
+                    fbc30ed1-6916-4dbf-8597-43bae7667a26                        
+insecure_http       True                                                        
+ipv4_addresses      ['107.21.29.216', '23.22.19.201', '34.192.121.160',         
+                    '34.194.68.3', '34.198.43.9', '34.246.137.168',             
+                    '34.250.3.119', '34.253.1.11', '52.208.209.205',            
+                    '52.210.221.246', '52.211.94.145', '52.212.172.106',        
+                    '52.48.35.66', '52.7.1.122', '52.73.161.171', '52.87.87.3', 
+                    '54.154.81.103', '54.154.83.0', '54.156.186.14',            
+                    '54.156.193.108', '54.165.16.47', '54.173.102.182',         
+                    '54.174.157.73', '54.174.34.188', '54.175.17.240',          
+                    '54.194.87.208', '54.209.220.147', '54.210.135.111',        
+                    '54.210.65.253', '54.236.93.206', '54.76.159.18',           
+                    '54.85.172.124', '54.87.6.168']                             
+ipv6_addresses      ['2406:da00:ff00::1716:13c9', '2406:da00:ff00::22c0:79a0',  
+                    '2406:da00:ff00::22c2:4403', '2406:da00:ff00::22c6:2b09',   
+                    '2406:da00:ff00::3407:17a', '2406:da00:ff00::3449:a1ab',    
+                    '2406:da00:ff00::3457:5703', '2406:da00:ff00::3655:ac7c',   
+                    '2406:da00:ff00::3657:6a8', '2406:da00:ff00::369c:ba0e',    
+                    '2406:da00:ff00::369c:c16c', '2406:da00:ff00::36a5:102f',   
+                    '2406:da00:ff00::36ad:66b6', '2406:da00:ff00::36ae:22bc',   
+                    '2406:da00:ff00::36ae:9d49', '2406:da00:ff00::36af:11f0',   
+                    '2406:da00:ff00::36d1:dc93', '2406:da00:ff00::36d2:41fd',   
+                    '2406:da00:ff00::36d2:876f', '2406:da00:ff00::36ec:5dce',   
+                    '2406:da00:ff00::6b15:1dd8', '2a01:578:3::22f8:a530',       
+                    '2a01:578:3::22fa:377', '2a01:578:3::3411:1b81',            
+                    '2a01:578:3::3411:e56d', '2a01:578:3::3412:60e3',           
+                    '2a01:578:3::3430:2342', '2a01:578:3::34d0:d1cd',           
+                    '2a01:578:3::34d2:ddf6', '2a01:578:3::34d3:5e91',           
+                    '2a01:578:3::34d5:9b75', '2a01:578:3::364d:3d2a',           
+                    '2a01:578:3::36c2:57d0']                                    
+rdns_names          ['ec2-107-21-29-216.compute-1.amazonaws.com',               
+                    'ec2-23-22-19-201.compute-1.amazonaws.com',                 
+                    'ec2-34-192-121-160.compute-1.amazonaws.com',               
+                    'ec2-34-194-68-3.compute-1.amazonaws.com',                  
+                    'ec2-34-198-43-9.compute-1.amazonaws.com',                  
+                    'ec2-34-246-137-168.eu-west-1.compute.amazonaws.com',       
+                    'ec2-34-250-3-119.eu-west-1.compute.amazonaws.com',         
+                    'ec2-34-253-1-11.eu-west-1.compute.amazonaws.com',          
+                    'ec2-52-208-209-205.eu-west-1.compute.amazonaws.com',       
+                    'ec2-52-210-221-246.eu-west-1.compute.amazonaws.com',       
+                    'ec2-52-211-94-145.eu-west-1.compute.amazonaws.com',        
+                    'ec2-52-212-172-106.eu-west-1.compute.amazonaws.com',       
+                    'ec2-52-48-35-66.eu-west-1.compute.amazonaws.com',          
+                    'ec2-52-7-1-122.compute-1.amazonaws.com',                   
+                    'ec2-52-73-161-171.compute-1.amazonaws.com',                
+                    'ec2-52-87-87-3.compute-1.amazonaws.com',                   
+                    'ec2-54-154-81-103.eu-west-1.compute.amazonaws.com',        
+                    'ec2-54-154-83-0.eu-west-1.compute.amazonaws.com',          
+                    'ec2-54-156-186-14.compute-1.amazonaws.com',                
+                    'ec2-54-156-193-108.compute-1.amazonaws.com',               
+                    'ec2-54-165-16-47.compute-1.amazonaws.com',                 
+                    'ec2-54-173-102-182.compute-1.amazonaws.com',               
+                    'ec2-54-174-157-73.compute-1.amazonaws.com',                
+                    'ec2-54-174-34-188.compute-1.amazonaws.com',                
+                    'ec2-54-175-17-240.compute-1.amazonaws.com',                
+                    'ec2-54-194-87-208.eu-west-1.compute.amazonaws.com',        
+                    'ec2-54-209-220-147.compute-1.amazonaws.com',               
+                    'ec2-54-210-135-111.compute-1.amazonaws.com',               
+                    'ec2-54-210-65-253.compute-1.amazonaws.com',                
+                    'ec2-54-236-93-206.compute-1.amazonaws.com',                
+                    'ec2-54-76-159-18.eu-west-1.compute.amazonaws.com',         
+                    'ec2-54-85-172-124.compute-1.amazonaws.com',                
+                    'ec2-54-87-6-168.compute-1.amazonaws.com']                  
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [44.72017288208008, 165.6816005706787]                      
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']                           
+
+
+DOMAIN: nih.gov
+    Attribute                           Value                     
+==================================================================
+geo_locations       ['Ashburn, Virginia, United States']          
+hsts                True                                          
+http_server         nginx                                         
+insecure_http       True                                          
+ipv4_addresses      ['54.235.145.223']                            
+ipv6_addresses      []                                            
+rdns_names          ['ec2-54-235-145-223.compute-1.amazonaws.com']
+redirect_to_https   True                                          
+root_ca             "GoDaddy.com                                  
+rtt_range           [61.5544319152832, 61.5544319152832]          
+scan_time           1.606e+09                                     
+tls_versions        ['TLSv1.2']                                   
+
+
+DOMAIN: npr.org
+    Attribute                       Value                 
+==========================================================
+geo_locations       ['United States']                     
+hsts                True                                  
+http_server         nginx/1.17.8                          
+insecure_http       True                                  
+ipv4_addresses      ['216.35.221.76']                     
+ipv6_addresses      []                                    
+rdns_names          []                                    
+redirect_to_https   True                                  
+root_ca             DigiCert Inc                          
+rtt_range           [42.88434982299805, 42.88434982299805]
+scan_time           1.606e+09                             
+tls_versions        ['TLSv1.1', 'TLSv1.2']                
+
+
+DOMAIN: nytimes.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                True                                                        
+http_server         Varnish                                                     
+insecure_http       True                                                        
+ipv4_addresses      ['151.101.1.164', '151.101.129.164', '151.101.193.164',     
+                    '151.101.65.164']                                           
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             The USERTRUST Network                                       
+rtt_range           [21.35491371154785, 52.262306213378906]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2']                                                 
+
+
+DOMAIN: office.com
+    Attribute                        Value                  
+============================================================
+geo_locations       ['United States']                       
+hsts                True                                    
+insecure_http       True                                    
+ipv4_addresses      ['13.107.6.156']                        
+ipv6_addresses      ['2620:1ec:a92::156']                   
+rdns_names          []                                      
+redirect_to_https   True                                    
+root_ca             GlobalSign nv-sa                        
+rtt_range           [49.442291259765625, 49.442291259765625]
+scan_time           1.606e+09                               
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']       
+
+
+DOMAIN: paypal.com
+    Attribute                       Value                 
+==========================================================
+geo_locations       ['United States']                     
+hsts                True                                  
+http_server         Varnish                               
+insecure_http       True                                  
+ipv4_addresses      ['64.4.250.36', '64.4.250.37']        
+ipv6_addresses      []                                    
+rdns_names          ['paypal.com']                        
+redirect_to_https   True                                  
+root_ca             DigiCert Inc                          
+rtt_range           [55.44614791870117, 59.07702445983887]
+scan_time           1.606e+09                             
+tls_versions        ['TLSv1.2']                           
+
+
+DOMAIN: pinterest.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                True                                                        
+insecure_http       True                                                        
+ipv4_addresses      ['151.101.0.84', '151.101.128.84', '151.101.192.84',        
+                    '151.101.64.84']                                            
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [20.24054527282715, 31.081199645996094]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']                           
+
+
+DOMAIN: play.google.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Draper, Utah, United States', 'Mountain View, California, 
+                    United States', 'United States']                            
+hsts                False                                                       
+http_server         ESF                                                         
+insecure_http       True                                                        
+ipv4_addresses      ['142.250.73.206', '172.217.0.14', '172.217.1.142',         
+                    '172.217.1.46', '172.217.16.110', '172.217.4.110',          
+                    '172.217.4.46', '172.217.4.78', '172.217.6.110',            
+                    '172.217.6.206', '216.58.192.174', '216.58.198.174',        
+                    '64.233.163.100', '64.233.163.101', '64.233.163.102',       
+                    '64.233.163.113', '64.233.163.138', '64.233.163.139']       
+ipv6_addresses      ['2607:f8b0:4000:815::200e', '2607:f8b0:4006:803::200e',    
+                    '2607:f8b0:4006:80a::200e', '2607:f8b0:4006:814::200e',     
+                    '2607:f8b0:4009:804::200e', '2607:f8b0:4009:805::200e',     
+                    '2607:f8b0:4009:807::200e', '2607:f8b0:4009:80c::200e',     
+                    '2607:f8b0:4009:813::200e', '2607:f8b0:4009:816::200e',     
+                    '2a00:1450:4009:809::200e', '2a00:1450:400d:808::200e',     
+                    '2a00:1450:4010:c07::64', '2a00:1450:4010:c07::65',         
+                    '2a00:1450:4010:c07::66', '2a00:1450:4010:c07::8b']         
+rdns_names          ['atl14s07-in-f142.1e100.net', 'bud02s25-in-f14.1e100.net', 
+                    'dfw28s23-in-f14.1e100.net', 'iad23s87-in-f14.1e100.net',   
+                    'lga15s46-in-f14.1e100.net', 'lga15s46-in-f46.1e100.net',   
+                    'lga15s47-in-f78.1e100.net', 'lga25s54-in-f14.1e100.net',   
+                    'lga25s54-in-f206.1e100.net', 'lhr25s10-in-f14.1e100.net',  
+                    'lhr25s10-in-f174.1e100.net', 'lj-in-f100.1e100.net', 'lj-  
+                    in-f101.1e100.net', 'lj-in-f102.1e100.net', 'lj-            
+                    in-f113.1e100.net', 'lj-in-f138.1e100.net', 'lj-            
+                    in-f139.1e100.net', 'ord36s02-in-f14.1e100.net',            
+                    'ord36s02-in-f174.1e100.net', 'ord36s04-in-f110.1e100.net', 
+                    'ord36s04-in-f14.1e100.net', 'ord37s03-in-f110.1e100.net',  
+                    'ord37s03-in-f14.1e100.net', 'ord37s07-in-f14.1e100.net',   
+                    'ord37s07-in-f46.1e100.net', 'ord37s18-in-f14.1e100.net',   
+                    'ord38s04-in-f14.1e100.net', 'ord38s18-in-f14.1e100.net',   
+                    'prg02s12-in-f14.1e100.net']                                
+redirect_to_https   True                                                        
+root_ca             GlobalSign                                                  
+rtt_range           [25.77352523803711, 562.4072551727295]                      
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: quizlet.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+http_server         cloudflare                                                  
+insecure_http       True                                                        
+ipv4_addresses      ['104.16.14.221', '104.16.15.221', '104.16.16.221',         
+                    '104.16.17.221', '104.16.18.221']                           
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [22.51744270324707, 44.939279556274414]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2', 'TLSv1.3']                                      
+
+
+DOMAIN: quora.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Ashburn, Virginia, United States', 'United States']       
+hsts                True                                                        
+http_server         nginx                                                       
+insecure_http       True                                                        
+ipv4_addresses      ['3.215.229.190', '3.220.94.245', '3.221.108.159',          
+                    '3.223.203.39', '3.224.177.84', '3.228.199.81',             
+                    '3.232.161.81', '34.194.113.235', '34.194.85.163',          
+                    '34.232.236.5', '34.235.233.65', '34.237.36.29',            
+                    '54.144.52.51', '54.175.190.187', '54.236.136.26',          
+                    '54.86.28.57', '54.88.111.196']                             
+ipv6_addresses      []                                                          
+rdns_names          ['ec2-3-215-229-190.compute-1.amazonaws.com',               
+                    'ec2-3-220-94-245.compute-1.amazonaws.com',                 
+                    'ec2-3-221-108-159.compute-1.amazonaws.com',                
+                    'ec2-3-223-203-39.compute-1.amazonaws.com',                 
+                    'ec2-3-224-177-84.compute-1.amazonaws.com',                 
+                    'ec2-3-228-199-81.compute-1.amazonaws.com',                 
+                    'ec2-3-232-161-81.compute-1.amazonaws.com',                 
+                    'ec2-34-194-113-235.compute-1.amazonaws.com',               
+                    'ec2-34-194-85-163.compute-1.amazonaws.com',                
+                    'ec2-34-232-236-5.compute-1.amazonaws.com',                 
+                    'ec2-34-235-233-65.compute-1.amazonaws.com',                
+                    'ec2-34-237-36-29.compute-1.amazonaws.com',                 
+                    'ec2-54-144-52-51.compute-1.amazonaws.com',                 
+                    'ec2-54-175-190-187.compute-1.amazonaws.com',               
+                    'ec2-54-236-136-26.compute-1.amazonaws.com',                
+                    'ec2-54-86-28-57.compute-1.amazonaws.com',                  
+                    'ec2-54-88-111-196.compute-1.amazonaws.com']                
+redirect_to_https   True                                                        
+root_ca             Digital Signature Trust Co.                                 
+rtt_range           [43.63274574279785, 106.14156723022461]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2']                                                 
+
+
+DOMAIN: reddit.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                True                                                        
+insecure_http       True                                                        
+ipv4_addresses      ['151.101.1.140', '151.101.129.140', '151.101.193.140',     
+                    '151.101.65.140']                                           
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [20.142078399658203, 30.69162368774414]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']                           
+
+
+DOMAIN: retailmenot.com
+    Attribute                            Value                      
+====================================================================
+geo_locations       ['United States']                               
+hsts                False                                           
+http_server         cloudflare                                      
+insecure_http       True                                            
+ipv4_addresses      ['104.17.229.45', '104.17.230.45']              
+ipv6_addresses      ['2606:4700::6811:e52d', '2606:4700::6811:e62d']
+rdns_names          []                                              
+redirect_to_https   True                                            
+root_ca             Baltimore                                       
+rtt_range           [28.18131446838379, 36.06748580932617]          
+scan_time           1.606e+09                                       
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']    
+
+
+DOMAIN: roblox.com
+    Attribute                              Value                       
+=======================================================================
+geo_locations       ['United States']                                  
+hsts                True                                               
+insecure_http       True                                               
+ipv4_addresses      ['128.116.114.3', '128.116.121.3', '128.116.123.3']
+ipv6_addresses      []                                                 
+rdns_names          []                                                 
+redirect_to_https   True                                               
+root_ca             "GoDaddy.com                                       
+rtt_range           [42.56248474121094, 166.78619384765625]            
+scan_time           1.606e+09                                          
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']       
+
+
+DOMAIN: rottentomatoes.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['', 'United States']                                       
+hsts                True                                                        
+insecure_http       True                                                        
+ipv4_addresses      ['104.102.216.224', '104.107.44.19', '104.108.42.141',      
+                    '23.196.114.76', '23.2.162.220', '23.66.91.13',             
+                    '95.101.195.82']                                            
+ipv6_addresses      ['2600:1404:1800:68d::38c5', '2600:1404:1800:69f::38c5',    
+                    '2600:1407:21:29f::38c5', '2600:1407:21:2a1::38c5',         
+                    '2600:1408:7400:482::38c5', '2600:1408:7400:498::38c5',     
+                    '2600:1408:8c00:786::38c5', '2600:1408:8c00:790::38c5',     
+                    '2a02:26f0:41:694::38c5', '2a02:26f0:41:69d::38c5',         
+                    '2a02:26f0:6c00:285::38c5', '2a02:26f0:6c00:28e::38c5']     
+rdns_names          ['a104-102-216-224.deploy.static.akamaitechnologies.com',   
+                    'a104-107-44-19.deploy.static.akamaitechnologies.com',      
+                    'a104-108-42-141.deploy.static.akamaitechnologies.com',     
+                    'a23-196-114-76.deploy.static.akamaitechnologies.com',      
+                    'a23-2-162-220.deploy.static.akamaitechnologies.com',       
+                    'a23-66-91-13.deploy.static.akamaitechnologies.com',        
+                    'a95-101-195-82.deploy.static.akamaitechnologies.com']      
+redirect_to_https   True                                                        
+root_ca             COMODO CA Limited                                           
+rtt_range           [35.19272804260254, 126.93023681640625]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2', 'TLSv1.3']                                      
+
+
+DOMAIN: spotify.com
+    Attribute                          Value                    
+================================================================
+geo_locations       ['Kansas City, Missouri, United States']    
+hsts                True                                        
+http_server         envoy                                       
+insecure_http       True                                        
+ipv4_addresses      ['35.186.224.25']                           
+ipv6_addresses      ['2600:1901:1:c36::']                       
+rdns_names          ['25.224.186.35.bc.googleusercontent.com']  
+redirect_to_https   True                                        
+root_ca             DigiCert Inc                                
+rtt_range           [24.080753326416016, 24.080753326416016]    
+scan_time           1.606e+09                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']
+
+
+DOMAIN: steamcommunity.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+http_server         nginx                                                       
+insecure_http       True                                                        
+ipv4_addresses      ['104.102.116.70', '104.106.179.159', '104.121.86.88',      
+                    '104.64.155.245', '104.69.113.90', '184.51.234.105',        
+                    '23.14.8.147', '23.219.244.26']                             
+ipv6_addresses      []                                                          
+rdns_names          ['a104-102-116-70.deploy.static.akamaitechnologies.com',    
+                    'a104-106-179-159.deploy.static.akamaitechnologies.com',    
+                    'a104-121-86-88.deploy.static.akamaitechnologies.com',      
+                    'a104-64-155-245.deploy.static.akamaitechnologies.com',     
+                    'a104-69-113-90.deploy.static.akamaitechnologies.com',      
+                    'a184-51-234-105.deploy.static.akamaitechnologies.com',     
+                    'a23-14-8-147.deploy.static.akamaitechnologies.com',        
+                    'a23-219-244-26.deploy.static.akamaitechnologies.com']      
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [25.493144989013672, 141.79444313049316]                    
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: steampowered.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                True                                                        
+http_server         nginx                                                       
+insecure_http       True                                                        
+ipv4_addresses      ['104.102.96.99', '104.106.190.50', '104.121.70.131',       
+                    '104.64.141.171', '184.85.144.221', '184.87.86.190',        
+                    '23.13.244.166', '23.219.253.178', '23.78.65.15']           
+ipv6_addresses      []                                                          
+rdns_names          ['a104-102-96-99.deploy.static.akamaitechnologies.com',     
+                    'a104-106-190-50.deploy.static.akamaitechnologies.com',     
+                    'a104-121-70-131.deploy.static.akamaitechnologies.com',     
+                    'a104-64-141-171.deploy.static.akamaitechnologies.com',     
+                    'a184-85-144-221.deploy.static.akamaitechnologies.com',     
+                    'a184-87-86-190.deploy.static.akamaitechnologies.com',      
+                    'a23-13-244-166.deploy.static.akamaitechnologies.com',      
+                    'a23-219-253-178.deploy.static.akamaitechnologies.com',     
+                    'a23-78-65-15.deploy.static.akamaitechnologies.com']        
+redirect_to_https   True                                                        
+root_ca             Digital Signature Trust Co.                                 
+rtt_range           [45.0901985168457, 145.0669765472412]                       
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: target.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                True                                                        
+http_server         Varnish                                                     
+insecure_http       True                                                        
+ipv4_addresses      ['151.101.130.187', '151.101.194.187', '151.101.2.187',     
+                    '151.101.66.187']                                           
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             GlobalSign nv-sa                                            
+rtt_range           [22.153854370117188, 33.36334228515625]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2']                                                 
+
+
+DOMAIN: techradar.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United Kingdom']                                          
+hsts                True                                                        
+http_server         nginx/1.19.0                                                
+insecure_http       True                                                        
+ipv4_addresses      ['185.113.25.50', '185.113.25.55', '185.113.25.56']         
+ipv6_addresses      []                                                          
+rdns_names          ['vif07.web.future.net.uk', 'vif08.web.future.net.uk',      
+                    'vif15.web.future.net.uk']                                  
+redirect_to_https   True                                                        
+root_ca             Digital Signature Trust Co.                                 
+rtt_range           [118.33739280700684, 130.34510612487793]                    
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2']                                                 
+
+
+DOMAIN: theguardian.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                True                                                        
+http_server         Varnish                                                     
+insecure_http       True                                                        
+ipv4_addresses      ['151.101.1.111', '151.101.129.111', '151.101.193.111',     
+                    '151.101.65.111']                                           
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             GlobalSign nv-sa                                            
+rtt_range           [24.31964874267578, 48.085689544677734]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2', 'TLSv1.3']                                      
+
+
+DOMAIN: tripadvisor.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['London, England, United Kingdom', 'Texas, United States', 
+                    'United States']                                            
+hsts                False                                                       
+http_server         Apache                                                      
+insecure_http       True                                                        
+ipv4_addresses      ['192.229.162.112', '192.229.182.112', '192.229.189.15']    
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             GlobalSign                                                  
+rtt_range           [19.185543060302734, 247.39670753479004]                    
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2', 'TLSv1.3']                                      
+
+
+DOMAIN: twitter.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                True                                                        
+http_server         tsa_b                                                       
+insecure_http       True                                                        
+ipv4_addresses      ['104.244.42.1', '104.244.42.129', '104.244.42.193',        
+                    '104.244.42.65']                                            
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [64.90302085876465, 121.57559394836426]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2']                                                 
+
+
+DOMAIN: urbandictionary.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+insecure_http       True                                                        
+ipv4_addresses      ['151.101.0.207', '151.101.128.207', '151.101.192.207',     
+                    '151.101.64.207']                                           
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             GlobalSign nv-sa                                            
+rtt_range           [20.538330078125, 30.271053314208984]                       
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2']                                                 
+
+
+DOMAIN: usatoday.com
+    Attribute                        Value                  
+============================================================
+geo_locations       ['United States']                       
+hsts                True                                    
+insecure_http       True                                    
+ipv4_addresses      ['159.54.242.176']                      
+ipv6_addresses      []                                      
+rdns_names          ['host-176.242.54.159.gannett.com']     
+redirect_to_https   True                                    
+root_ca             DigiCert Inc                            
+rtt_range           [43.910980224609375, 43.910980224609375]
+scan_time           1.606e+09                               
+tls_versions        ['TLSv1.2']                             
+
+
+DOMAIN: usnews.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['', 'United States']                                       
+insecure_http       False                                                       
+ipv4_addresses      ['104.104.83.65', '104.68.237.246', '184.28.47.36',         
+                    '23.1.62.60', '23.13.252.117', '23.211.33.161',             
+                    '23.7.107.49', '23.79.214.175', '92.122.82.239']            
+ipv6_addresses      []                                                          
+rdns_names          ['a104-104-83-65.deploy.static.akamaitechnologies.com',     
+                    'a104-68-237-246.deploy.static.akamaitechnologies.com',     
+                    'a184-28-47-36.deploy.static.akamaitechnologies.com',       
+                    'a23-1-62-60.deploy.static.akamaitechnologies.com',         
+                    'a23-13-252-117.deploy.static.akamaitechnologies.com',      
+                    'a23-211-33-161.deploy.static.akamaitechnologies.com',      
+                    'a23-7-107-49.deploy.static.akamaitechnologies.com',        
+                    'a23-79-214-175.deploy.static.akamaitechnologies.com',      
+                    'a92-122-82-239.deploy.static.akamaitechnologies.com']      
+redirect_to_https   False                                                       
+root_ca             The USERTRUST Network                                       
+rtt_range           [31.21161460876465, 142.49324798583984]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.1', 'TLSv1.2', 'TLSv1.3']                           
+
+
+DOMAIN: usps.com
+    Attribute                         Value                   
+==============================================================
+geo_locations       ['Silver Spring, Maryland, United States']
+hsts                True                                      
+insecure_http       True                                      
+ipv4_addresses      ['56.0.134.100']                          
+ipv6_addresses      []                                        
+rdns_names          ['emergingtech.usps.com', 'usps.com']     
+redirect_to_https   True                                      
+root_ca             The USERTRUST Network                     
+rtt_range           [38.83075714111328, 38.83075714111328]    
+scan_time           1.606e+09                                 
+tls_versions        ['TLSv1.2']                               
+
+
+DOMAIN: walmart.com
+    Attribute                       Value                 
+==========================================================
+geo_locations       ['United States']                     
+hsts                True                                  
+insecure_http       True                                  
+ipv4_addresses      ['161.170.230.170', '161.170.232.170']
+ipv6_addresses      []                                    
+rdns_names          []                                    
+redirect_to_https   True                                  
+root_ca             GlobalSign                            
+rtt_range           [43.8690185546875, 46.68855667114258] 
+scan_time           1.606e+09                             
+tls_versions        ['TLSv1.1', 'TLSv1.2']                
+
+
+DOMAIN: washingtonpost.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+http_server         AmazonS3                                                    
+insecure_http       True                                                        
+ipv4_addresses      ['104.108.69.196', '13.249.134.106', '13.249.134.14',       
+                    '13.249.134.36', '13.249.134.39', '184.29.153.77',          
+                    '23.5.226.200', '23.52.20.138', '23.6.156.89',              
+                    '23.79.218.64', '52.84.145.111', '52.84.145.121',           
+                    '52.84.145.7', '52.84.145.85', '52.85.83.19', '52.85.83.61',
+                    '52.85.83.68', '52.85.83.70', '99.84.118.102',              
+                    '99.84.118.4', '99.84.118.94', '99.84.118.98']              
+ipv6_addresses      []                                                          
+rdns_names          ['a104-108-69-196.deploy.static.akamaitechnologies.com',    
+                    'a184-29-153-77.deploy.static.akamaitechnologies.com',      
+                    'a23-5-226-200.deploy.static.akamaitechnologies.com',       
+                    'a23-52-20-138.deploy.static.akamaitechnologies.com',       
+                    'a23-6-156-89.deploy.static.akamaitechnologies.com',        
+                    'a23-79-218-64.deploy.static.akamaitechnologies.com',       
+                    'server-13-249-134-106.ord51.r.cloudfront.net',             
+                    'server-13-249-134-14.ord51.r.cloudfront.net',              
+                    'server-13-249-134-36.ord51.r.cloudfront.net',              
+                    'server-13-249-134-39.ord51.r.cloudfront.net',              
+                    'server-52-84-145-111.ord53.r.cloudfront.net',              
+                    'server-52-84-145-121.ord53.r.cloudfront.net',              
+                    'server-52-84-145-7.ord53.r.cloudfront.net',                
+                    'server-52-84-145-85.ord53.r.cloudfront.net',               
+                    'server-52-85-83-19.atl56.r.cloudfront.net',                
+                    'server-52-85-83-61.atl56.r.cloudfront.net',                
+                    'server-52-85-83-68.atl56.r.cloudfront.net',                
+                    'server-52-85-83-70.atl56.r.cloudfront.net',                
+                    'server-99-84-118-102.ewr52.r.cloudfront.net',              
+                    'server-99-84-118-4.ewr52.r.cloudfront.net',                
+                    'server-99-84-118-94.ewr52.r.cloudfront.net',               
+                    'server-99-84-118-98.ewr52.r.cloudfront.net']               
+redirect_to_https   True                                                        
+root_ca             "Entrust                                                    
+rtt_range           [27.467727661132812, 139.39929008483887]                    
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.1', 'TLSv1.2', 'TLSv1.3']                           
+
+
+DOMAIN: wayfair.com
+    Attribute                        Value                  
+============================================================
+geo_locations       ['Boston, Massachusetts, United States']
+hsts                True                                    
+http_server         nginx                                   
+insecure_http       True                                    
+ipv4_addresses      ['162.208.32.80']                       
+ipv6_addresses      []                                      
+rdns_names          []                                      
+redirect_to_https   True                                    
+root_ca             Digital Signature Trust Co.             
+rtt_range           [66.1768913269043, 66.1768913269043]    
+scan_time           1.606e+09                               
+tls_versions        ['TLSv1.2']                             
+
+
+DOMAIN: weather.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['', 'United States']                                       
+hsts                True                                                        
+http_server         nginx/1.19.0                                                
+insecure_http       True                                                        
+ipv4_addresses      ['104.106.180.53', '104.68.234.219', '104.77.227.231',      
+                    '104.97.10.163', '184.87.87.235', '2.22.36.100',            
+                    '23.192.22.158', '23.7.118.199', '23.78.105.165',           
+                    '96.7.88.66']                                               
+ipv6_addresses      []                                                          
+rdns_names          ['a104-106-180-53.deploy.static.akamaitechnologies.com',    
+                    'a104-68-234-219.deploy.static.akamaitechnologies.com',     
+                    'a104-77-227-231.deploy.static.akamaitechnologies.com',     
+                    'a104-97-10-163.deploy.static.akamaitechnologies.com',      
+                    'a184-87-87-235.deploy.static.akamaitechnologies.com',      
+                    'a2-22-36-100.deploy.static.akamaitechnologies.com',        
+                    'a23-192-22-158.deploy.static.akamaitechnologies.com',      
+                    'a23-7-118-199.deploy.static.akamaitechnologies.com',       
+                    'a23-78-105-165.deploy.static.akamaitechnologies.com',      
+                    'a96-7-88-66.deploy.static.akamaitechnologies.com']         
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [36.95487976074219, 160.3984832763672]                      
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2', 'TLSv1.3']                                      
+
+
+DOMAIN: webmd.com
+    Attribute                       Value                 
+==========================================================
+geo_locations       ['United States']                     
+hsts                False                                 
+http_server         cloudflare                            
+insecure_http       True                                  
+ipv4_addresses      ['207.231.204.56']                    
+ipv6_addresses      []                                    
+rdns_names          []                                    
+redirect_to_https   True                                  
+root_ca             Digital Signature Trust Co.           
+rtt_range           [57.67655372619629, 57.67655372619629]
+scan_time           1.606e+09                             
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']     
+
+
+DOMAIN: wellsfargo.com
+    Attribute                              Value                       
+=======================================================================
+geo_locations       ['North Carolina, United States', 'United States'] 
+hsts                True                                               
+http_server         Server                                             
+insecure_http       True                                               
+ipv4_addresses      ['159.45.170.143', '159.45.2.143', '159.45.66.143']
+ipv6_addresses      []                                                 
+rdns_names          []                                                 
+redirect_to_https   True                                               
+root_ca             DigiCert Inc                                       
+rtt_range           [71.65813446044922, 89.75815773010254]             
+scan_time           1.606e+09                                          
+tls_versions        ['TLSv1.2']                                        
+
+
+DOMAIN: wikihow.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                True                                                        
+insecure_http       True                                                        
+ipv4_addresses      ['151.101.130.110', '151.101.194.110', '151.101.2.110',     
+                    '151.101.66.110']                                           
+ipv6_addresses      ['2a04:4e42:200::622', '2a04:4e42:400::622',                
+                    '2a04:4e42:600::622', '2a04:4e42:800::622',                 
+                    '2a04:4e42::622', '2a04:4e42:a00::622',                     
+                    '2a04:4e42:c00::622', '2a04:4e42:e00::622']                 
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             GlobalSign nv-sa                                            
+rtt_range           [21.628856658935547, 27.19426155090332]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']                           
+
+
+DOMAIN: wiktionary.org
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Netherlands', 'United States']                            
+hsts                True                                                        
+http_server         mw1409.eqiad.wmnet                                          
+insecure_http       True                                                        
+ipv4_addresses      ['208.80.154.224', '91.198.174.192']                        
+ipv6_addresses      ['2620:0:861:ed1a::1', '2620:0:862:ed1a::1']                
+rdns_names          ['text-lb.eqiad.wikimedia.org', 'text-                      
+                    lb.esams.wikimedia.org']                                    
+redirect_to_https   True                                                        
+root_ca             Digital Signature Trust Co.                                 
+rtt_range           [42.59800910949707, 130.2497386932373]                      
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2', 'TLSv1.3']                                      
+
+
+DOMAIN: wowhead.com
+    Attribute                          Value                    
+================================================================
+geo_locations       ['United States']                           
+hsts                False                                       
+http_server         cloudflare                                  
+insecure_http       True                                        
+ipv4_addresses      ['104.18.30.49', '104.18.31.49']            
+ipv6_addresses      []                                          
+rdns_names          []                                          
+redirect_to_https   True                                        
+root_ca             Baltimore                                   
+rtt_range           [31.659603118896484, 55.91559410095215]     
+scan_time           1.606e+09                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']
+
+
+DOMAIN: xfinity.com
+    Attribute                            Value                      
+====================================================================
+geo_locations       ['United States']                               
+hsts                False                                           
+insecure_http       True                                            
+ipv4_addresses      ['68.87.41.40', '96.114.14.140', '96.114.21.40']
+ipv6_addresses      []                                              
+rdns_names          []                                              
+redirect_to_https   True                                            
+root_ca             COMODO CA Limited                               
+rtt_range           [23.230791091918945, 49.756765365600586]        
+scan_time           1.606e+09                                       
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2']               
+
+
+DOMAIN: yahoo.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                True                                                        
+http_server         ATS                                                         
+insecure_http       True                                                        
+ipv4_addresses      ['74.6.143.25', '74.6.143.26', '74.6.231.20', '74.6.231.21',
+                    '98.137.11.163', '98.137.11.164']                           
+ipv6_addresses      ['2001:4998:124:1507::f000', '2001:4998:124:1507::f001',    
+                    '2001:4998:24:120d::1:0', '2001:4998:24:120d::1:1',         
+                    '2001:4998:44:3507::8000', '2001:4998:44:3507::8001']       
+rdns_names          ['media-router-fp73.prod.media.vip.bf1.yahoo.com', 'media-  
+                    router-fp73.prod.media.vip.gq1.yahoo.com', 'media-router-   
+                    fp73.prod.media.vip.ne1.yahoo.com', 'media-router-          
+                    fp74.prod.media.vip.bf1.yahoo.com', 'media-router-          
+                    fp74.prod.media.vip.gq1.yahoo.com', 'media-router-          
+                    fp74.prod.media.vip.ne1.yahoo.com']                         
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [55.10210990905762, 93.4915542602539]                       
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: yellowpages.com
+    Attribute                        Value                  
+============================================================
+geo_locations       ['Carrollton, Texas, United States']    
+hsts                False                                   
+insecure_http       True                                    
+ipv4_addresses      ['208.93.105.173']                      
+ipv6_addresses      []                                      
+rdns_names          ['yp.com', 'ypu.v.ev1.yp.com']          
+redirect_to_https   True                                    
+root_ca             DigiCert Inc                            
+rtt_range           [47.020673751831055, 47.020673751831055]
+scan_time           1.606e+09                               
+tls_versions        ['TLSv1.1', 'TLSv1.2']                  
+
+
+DOMAIN: yelp.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Amsterdam, North Holland, Netherlands', 'Ashburn,         
+                    Virginia, United States', 'Central, Central and Western     
+                    District, Hong Kong', 'Chicago, Illinois, United States',   
+                    'Dallas, Texas, United States', 'Denver, Colorado, United   
+                    States', 'Helsinki, Uusimaa, Finland']                      
+hsts                True                                                        
+http_server         Apache                                                      
+insecure_http       True                                                        
+ipv4_addresses      ['151.101.244.116', '151.101.248.116', '151.101.36.116',    
+                    '151.101.68.116', '151.101.76.116', '199.232.76.116',       
+                    '199.232.8.116']                                            
+ipv6_addresses      []                                                          
+rdns_names          []                                                          
+redirect_to_https   True                                                        
+root_ca             DigiCert Inc                                                
+rtt_range           [25.00629425048828, 221.6346263885498]                      
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: youtube.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['Draper, Utah, United States', 'Mountain View, California, 
+                    United States', 'United States']                            
+hsts                True                                                        
+http_server         YouTube Frontend Proxy                                      
+insecure_http       True                                                        
+ipv4_addresses      ['142.250.80.14', '172.217.10.110', '172.217.12.78',        
+                    '172.217.2.110', '172.217.5.14', '172.217.6.110',           
+                    '172.217.6.14', '172.217.8.174', '216.58.192.174',          
+                    '216.58.213.14', '216.58.214.238', '64.233.165.136',        
+                    '64.233.165.190', '64.233.165.91', '64.233.165.93']         
+ipv6_addresses      ['2607:f8b0:4000:816::200e', '2607:f8b0:4004:806::200e',    
+                    '2607:f8b0:4006:807::200e', '2607:f8b0:4009:802::200e',     
+                    '2607:f8b0:4009:803::200e', '2607:f8b0:4009:811::200e',     
+                    '2607:f8b0:4009:812::200e', '2607:f8b0:4009:815::200e',     
+                    '2a00:1450:4009:816::200e', '2a00:1450:400d:803::200e',     
+                    '2a00:1450:4010:c0b::5b', '2a00:1450:4010:c0b::5d',         
+                    '2a00:1450:4010:c0b::88', '2a00:1450:4010:c0b::be']         
+rdns_names          ['ber01s14-in-f14.1e100.net', 'bud02s24-in-f14.1e100.net',  
+                    'bud02s24-in-f238.1e100.net', 'dfw28s05-in-f14.1e100.net',  
+                    'iad23s72-in-f14.1e100.net', 'lg-in-f136.1e100.net', 'lg-   
+                    in-f190.1e100.net', 'lg-in-f91.1e100.net', 'lg-             
+                    in-f93.1e100.net', 'lga15s49-in-f14.1e100.net',             
+                    'lga34s15-in-f14.1e100.net', 'lga34s33-in-f14.1e100.net',   
+                    'lhr25s25-in-f14.1e100.net', 'ord36s02-in-f14.1e100.net',   
+                    'ord36s02-in-f174.1e100.net', 'ord37s03-in-f110.1e100.net', 
+                    'ord37s03-in-f14.1e100.net', 'ord37s08-in-f14.1e100.net',   
+                    'ord38s01-in-f14.1e100.net', 'ord38s19-in-f14.1e100.net',   
+                    'yyz10s05-in-f14.1e100.net']                                
+redirect_to_https   True                                                        
+root_ca             GlobalSign                                                  
+rtt_range           [19.472837448120117, 157.3469638824463]                     
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.0', 'TLSv1.1', 'TLSv1.2', 'TLSv1.3']                
+
+
+DOMAIN: zillow.com
+    Attribute                                  Value                            
+================================================================================
+geo_locations       ['United States']                                           
+hsts                False                                                       
+http_server         Apache                                                      
+insecure_http       True                                                        
+ipv4_addresses      ['13.226.169.113', '13.226.169.26', '13.226.169.38',        
+                    '13.226.169.66', '13.226.18.108', '13.226.18.31',           
+                    '13.226.18.35', '13.226.18.88', '13.226.38.126',            
+                    '13.226.38.128', '13.226.38.2', '13.226.38.56',             
+                    '13.226.94.4', '13.226.94.5', '13.226.94.8', '13.226.94.97',
+                    '13.249.25.25', '13.249.25.31', '13.249.25.86',             
+                    '13.249.25.87', '52.84.16.117', '52.84.16.39',              
+                    '52.84.16.91', '52.84.16.96', '52.84.91.14', '52.84.91.26', 
+                    '52.84.91.55', '52.84.91.8', '99.84.39.125', '99.84.39.23', 
+                    '99.84.39.78', '99.84.39.82']                               
+ipv6_addresses      []                                                          
+rdns_names          ['server-13-226-169-113.mxp64.r.cloudfront.net',            
+                    'server-13-226-169-26.mxp64.r.cloudfront.net',              
+                    'server-13-226-169-38.mxp64.r.cloudfront.net',              
+                    'server-13-226-169-66.mxp64.r.cloudfront.net',              
+                    'server-13-226-18-108.ord51.r.cloudfront.net',              
+                    'server-13-226-18-31.ord51.r.cloudfront.net',               
+                    'server-13-226-18-35.ord51.r.cloudfront.net',               
+                    'server-13-226-18-88.ord51.r.cloudfront.net',               
+                    'server-13-226-38-126.ewr53.r.cloudfront.net',              
+                    'server-13-226-38-128.ewr53.r.cloudfront.net',              
+                    'server-13-226-38-2.ewr53.r.cloudfront.net',                
+                    'server-13-226-38-56.ewr53.r.cloudfront.net',               
+                    'server-13-226-94-4.atl52.r.cloudfront.net',                
+                    'server-13-226-94-5.atl52.r.cloudfront.net',                
+                    'server-13-226-94-8.atl52.r.cloudfront.net',                
+                    'server-13-226-94-97.atl52.r.cloudfront.net',               
+                    'server-13-249-25-25.iah50.r.cloudfront.net',               
+                    'server-13-249-25-31.iah50.r.cloudfront.net',               
+                    'server-13-249-25-86.iah50.r.cloudfront.net',               
+                    'server-13-249-25-87.iah50.r.cloudfront.net',               
+                    'server-52-84-16-117.ord53.r.cloudfront.net',               
+                    'server-52-84-16-39.ord53.r.cloudfront.net',                
+                    'server-52-84-16-91.ord53.r.cloudfront.net',                
+                    'server-52-84-16-96.ord53.r.cloudfront.net',                
+                    'server-52-84-91-14.lhr62.r.cloudfront.net',                
+                    'server-52-84-91-26.lhr62.r.cloudfront.net',                
+                    'server-52-84-91-55.lhr62.r.cloudfront.net',                
+                    'server-52-84-91-8.lhr62.r.cloudfront.net',                 
+                    'server-99-84-39-125.ewr52.r.cloudfront.net',               
+                    'server-99-84-39-23.ewr52.r.cloudfront.net',                
+                    'server-99-84-39-78.ewr52.r.cloudfront.net',                
+                    'server-99-84-39-82.ewr52.r.cloudfront.net']                
+redirect_to_https   True                                                        
+root_ca             Amazon                                                      
+rtt_range           [23.648500442504883, 182.65962600708008]                    
+scan_time           1.606e+09                                                   
+tls_versions        ['TLSv1.2', 'TLSv1.3']                                      
+
+
+
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@                                                                              @
+@                             TABLE 2: RTT RANGES                              @
+@                                                                              @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+        URL            RTT Range (ms)
+=====================================
+fandom.com             17 - 30       
+tripadvisor.com        19 - 247      
+healthline.com         19 - 221      
+youtube.com            19 - 157      
+bleacherreport.com     19 - 39       
+apple.com              20 - 20       
+reddit.com             20 - 30       
+pinterest.com          20 - 31       
+cbssports.com          20 - 169      
+urbandictionary.com    20 - 30       
+fb.com                 20 - 126      
+cnn.com                21 - 33       
+nytimes.com            21 - 52       
+live.com               21 - 21       
+wikihow.com            21 - 27       
+investopedia.com       21 - 48       
+merriam-webster.com    22 - 190      
+target.com             22 - 33       
+quizlet.com            22 - 44       
+lowes.com              22 - 139      
+medicalnewstoday.com   22 - 204      
+groupon.com            22 - 130      
+google.com             23 - 140      
+businessinsider.com    23 - 38       
+xfinity.com            23 - 49       
+zillow.com             23 - 182      
+books.google.com       23 - 175      
+spotify.com            24 - 24       
+theguardian.com        24 - 48       
+mail.yahoo.com         24 - 171      
+yelp.com               25 - 221      
+etsy.com               25 - 38       
+steamcommunity.com     25 - 141      
+play.google.com        25 - 562      
+expedia.com            25 - 118      
+chase.com              26 - 72       
+accuweather.com        26 - 154      
+glassdoor.com          26 - 29       
+washingtonpost.com     27 - 139      
+forbes.com             27 - 182      
+retailmenot.com        28 - 36       
+facebook.com           28 - 125      
+foxnews.com            28 - 139      
+dictionary.com         28 - 51       
+cnet.com               30 - 30       
+gamepedia.com          30 - 35       
+espn.com               31 - 234      
+usnews.com             31 - 142      
+bestbuy.com            31 - 286      
+wowhead.com            31 - 55       
+genius.com             31 - 32       
+finance.yahoo.com      32 - 168      
+macys.com              32 - 220      
+indeed.com             33 - 70       
+homedepot.com          33 - 33       
+rottentomatoes.com     35 - 126      
+weather.com            36 - 160      
+usps.com               38 - 38       
+linkedin.com           39 - 39       
+instagram.com          40 - 89       
+bbb.org                40 - 40       
+apartments.com         40 - 263      
+imdb.com               40 - 51       
+en.wikipedia.org       42 - 123      
+mapquest.com           42 - 132      
+roblox.com             42 - 166      
+wiktionary.org         42 - 130      
+npr.org                42 - 42       
+quora.com              43 - 106      
+walmart.com            43 - 46       
+usatoday.com           43 - 43       
+netflix.com            44 - 165      
+steampowered.com       45 - 145      
+ign.com                45 - 54       
+craigslist.org         45 - 45       
+yellowpages.com        47 - 47       
+microsoft.com          47 - 288      
+msn.com                48 - 48       
+hulu.com               48 - 181      
+office.com             49 - 49       
+foodnetwork.com        51 - 51       
+amazon.com             54 - 56       
+yahoo.com              55 - 93       
+paypal.com             55 - 59       
+mayoclinic.org         57 - 57       
+webmd.com              57 - 57       
+britannica.com         59 - 66       
+nih.gov                61 - 61       
+bankofamerica.com      63 - 71       
+twitter.com            64 - 121      
+wayfair.com            66 - 66       
+irs.gov                66 - 71       
+huffpost.com           68 - 263      
+wellsfargo.com         71 - 89       
+allrecipes.com         73 - 73       
+ca.gov                 77 - 77       
+aol.com                79 - 258      
+ebay.com               91 - 109      
+techradar.com          118 - 130     
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@                                                                              @
+@                          TABLE 3: POPULAR ROOT CA'S                          @
+@                                                                              @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+          CA Name             Occurence
+=======================================
+DigiCert Inc                  39       
+GlobalSign nv-sa              11       
+Digital Signature Trust Co.   9        
+The USERTRUST Network         7        
+Baltimore                     7        
+"Entrust                      6        
+GlobalSign                    6        
+Amazon                        6        
+"GoDaddy.com                  5        
+COMODO CA Limited             2        
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@                                                                              @
+@                         TABLE 4: POPULAR WEB SERVERS                         @
+@                                                                              @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+                            Server Name                                Occurence
+================================================================================
+nginx                                                                  10       
+Apache                                                                 8        
+cloudflare                                                             7        
+ATS                                                                    5        
+Varnish                                                                4        
+Server                                                                 3        
+AkamaiNetStorage                                                       3        
+AkamaiGHost                                                            3        
+AmazonS3                                                               3        
+envoy                                                                  2        
+Microsoft-IIS/10.0                                                     2        
+nginx/1.19.0                                                           2        
+OFE/0.1                                                                1        
+Apache/2.4.25 (Debian) mod_jk/1.2.46                                   1        
+nginx/1.14.2                                                           1        
+nginx/1.16.1                                                           1        
+ebay-proxy-server                                                      1        
+mw1384.eqiad.wmnet                                                     1        
+rhino-core-shield                                                      1        
+gws                                                                    1        
+nq_website_nonmember-prod-release                                      1        
+fbc30ed1-6916-4dbf-8597-43bae7667a26                                            
+nginx/1.17.8                                                           1        
+ESF                                                                    1        
+tsa_b                                                                  1        
+mw1409.eqiad.wmnet                                                     1        
+YouTube Frontend Proxy                                                 1        
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@                                                                              @
+@                             TABLE 5: PENCENTAGES                             @
+@                                                                              @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+     Item        Percentage (%)
+===============================
+SSLv2            0             
+SSLv3            0             
+TLSv1.0          43            
+TLSv1.1          58            
+TLSv1.2          99            
+TLSv1.3          49            
+plain http       96            
+https redirect   93            
+hsts             56            
+ipv6             23            
+
+

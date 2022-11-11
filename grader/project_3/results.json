@@ -1,0 +1,527 @@
+[
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.14513908014321122, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import copy\", \"from simulator.node import Node\", \"import json\", \"import math\", \"import copy\", \"import heapq\"]}\n",
+    "id": 97817,
+    "is_valid": true,
+    "name": "Andrew Acomb",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+1.0] LINK_STATE @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.09139867671949531, \"import_lines\": [\"import json\", \"import copy\", \"from simulator.node import Node\", \"from simulator.node import Node\", \"import copy\", \"import json\"]}\n",
+    "id": 121650,
+    "is_valid": true,
+    "name": "Chima Aharanwa",
+    "score": 87.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)\n## {\"code_similarity\": 0.10415375077495351, \"import_lines\": [\"from simulator.node import Node\", \"from simulator.node import Node\", \"import sys\", \"import json\"]}\n",
+    "id": 145951,
+    "is_valid": true,
+    "name": "Dennis Angelov",
+    "score": 50.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.05282852740479859, \"import_lines\": [\"from simulator.node import Node\", \"import copy\", \"import json\", \"import time\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 116818,
+    "is_valid": true,
+    "name": "Rohan Balakrishna",
+    "score": 95.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.08096573588586757, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import copy\", \"from simulator.node import Node\", \"import json\", \"import heapq\"]}\n",
+    "id": 121683,
+    "is_valid": true,
+    "name": "Karan Bhasin",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+1.0] LINK_STATE @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n    (Incorrect Solution)\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n    (Partially Correct Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)\n## {\"code_similarity\": 0.2939819668693646, \"import_lines\": [\"from simulator.node import Node\", \"import copy\", \"import json\", \"from simulator.node import Node\"]}\n",
+    "id": 122256,
+    "is_valid": true,
+    "name": "Alejandro Cardozo-Mongelos",
+    "score": 47.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.08564890487087283, \"import_lines\": [\"from simulator.node import Node\", \"import copy\", \"import json\", \"from simulator.node import Node\", \"import json\", \"import bisect\"]}\n",
+    "id": 121521,
+    "is_valid": true,
+    "name": "Cindy Chen",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+0.0] LINK_STATE @ ./test_cases/case_4.event\n    (Incorrect Solution)(Abnormal Exit)\n[+1.0] LINK_STATE @ ./test_cases/case_5.event\n    (Partially Correct Solution)\n[+1.0] LINK_STATE @ ./test_cases/case_6.event\n    (Partially Correct Solution)\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n    (Partially Correct Solution)\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n    (Partially Correct Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.1210886872801333, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import copy\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 169947,
+    "is_valid": true,
+    "name": "Dian Chen",
+    "score": 75.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.03343860300947427, \"import_lines\": [\"import json\", \"import copy\", \"from simulator.node import Node\", \"from simulator.node import Node\", \"from simulator.node import Link\", \"import json\"]}\n",
+    "id": 136799,
+    "is_valid": true,
+    "name": "Huaxuan Chen",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.12909203211859172, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import math\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 169895,
+    "is_valid": true,
+    "name": "Yi-wei Chen",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.2448875255623722, \"import_lines\": [\"from simulator.node import Node\", \"from collections import namedtuple\", \"import json\", \"import copy\", \"import math\", \"from simulator.node import Node\", \"from collections import namedtuple\", \"import json\", \"import math\"]}\n",
+    "id": 97454,
+    "is_valid": true,
+    "name": "Calvin Cheng",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.07417507499318243, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 116056,
+    "is_valid": true,
+    "name": "Philip Clement",
+    "score": 96.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+1.0] LINK_STATE @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+1.0] LINK_STATE @ ./test_cases/case_5.event\n    (Partially Correct Solution)\n[+1.0] LINK_STATE @ ./test_cases/case_6.event\n    (Partially Correct Solution)\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n    (Partially Correct Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.08044617204664525, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import copy\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 121768,
+    "is_valid": true,
+    "name": "Abigail Coneeny",
+    "score": 75.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n    (Partially Correct Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n    (Incorrect Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.20421554981109566, \"import_lines\": [\"from simulator.node import Node\", \"import numpy as np\", \"import json\", \"import copy\", \"from simulator.node import Node\", \"import numpy as np\", \"import json\", \"import networkx as nx\"]}\n",
+    "id": 101673,
+    "is_valid": true,
+    "name": "Julianne Cronin",
+    "score": 77.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)\n## {\"code_similarity\": 0.07306851311953352, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import copy\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 123362,
+    "is_valid": true,
+    "name": "Lilliana de Souza",
+    "score": 66.0
+  },
+  {
+    "comment": "No attachment found!\n",
+    "id": 121773,
+    "is_valid": true,
+    "name": "AJ Denhoff",
+    "score": 0.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+1.0] LINK_STATE @ ./test_cases/case_5.event\n    (Partially Correct Solution)\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Incorrect Solution)(Abnormal Exit)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n    (Time Out)(Time Out)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.06397837350754675, \"import_lines\": [\"import json\", \"from copy import deepcopy\", \"from typing import Dict, List\", \"from math import inf as INF\", \"from simulator.node import Node\", \"import logging\", \"from simulator.node import Node\", \"from json import dumps, loads\", \"from typing import List, Optional, Any\", \"from copy import deepcopy\", \"from math import inf as INF\"]}\n",
+    "id": 121452,
+    "is_valid": true,
+    "name": "Jacob Detwiler",
+    "score": 87.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.10490693739424704, \"import_lines\": [\"from simulator.node import Node\", \"import copy\", \"import json\", \"from simulator.node import Node\", \"import copy\", \"import json\"]}\n",
+    "id": 121734,
+    "is_valid": true,
+    "name": "Vishal Dhileepan",
+    "score": 95.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+1.0] LINK_STATE @ ./test_cases/case_4.event\n    (Partially Correct Solution)(Abnormal Exit)\n[+1.0] LINK_STATE @ ./test_cases/case_5.event\n    (Partially Correct Solution)\n[+1.0] LINK_STATE @ ./test_cases/case_6.event\n    (Partially Correct Solution)\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n    (Partially Correct Solution)\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n    (Partially Correct Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.15772727272727272, \"import_lines\": [\"from simulator.node import Node\", \"from copy import deepcopy\", \"import json\", \"from simulator.node import Node\", \"import json\", \"import sys\"]}\n",
+    "id": 102018,
+    "is_valid": true,
+    "name": "Oge Flagg-Igbo",
+    "score": 76.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.15766099185788304, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import time\", \"import copy\", \"from simulator.node import Node\", \"import json\", \"import copy\"]}\n",
+    "id": 115885,
+    "is_valid": true,
+    "name": "Jack Freilich",
+    "score": 95.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.10490693739424704, \"import_lines\": [\"from simulator.node import Node\", \"import copy\", \"import json\", \"from simulator.node import Node\", \"import copy\", \"import json\"]}\n",
+    "id": 117046,
+    "is_valid": true,
+    "name": "Olivier Gabison",
+    "score": 95.0
+  },
+  {
+    "comment": "[+0.0] LINK_STATE @ ./test_cases/case_1.event\n    (Incorrect Solution)\n[+0.0] LINK_STATE @ ./test_cases/case_2.event\n    (Incorrect Solution)\n[+0.0] LINK_STATE @ ./test_cases/case_3.event\n    (Incorrect Solution)\n[+0.0] LINK_STATE @ ./test_cases/case_4.event\n    (Incorrect Solution)\n[+0.0] LINK_STATE @ ./test_cases/case_5.event\n    (Incorrect Solution)\n[+0.0] LINK_STATE @ ./test_cases/case_6.event\n    (Incorrect Solution)\n[+0.0] LINK_STATE @ ./test_cases/case_7.event\n    (Incorrect Solution)\n[+0.0] LINK_STATE @ ./test_cases/case_8.event\n    (Incorrect Solution)\n[+0.0] LINK_STATE @ ./test_cases/case_9.event\n    (Incorrect Solution)\n[+0.0] LINK_STATE @ ./test_cases/case_10.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n    (Incorrect Solution)(Time Out)\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n    (Partially Correct Solution)(Time Out)(Time Out)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n    (Incorrect Solution)(Time Out)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n    (Incorrect Solution)(Abnormal Exit)\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n    (Time Out)(Time Out)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n    (Incorrect Solution)(Time Out)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n    (Incorrect Solution)(Time Out)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n    (Incorrect Solution)(Time Out)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.01761201761201761, \"import_lines\": [\"from simulator.node import Node\", \"import copy\", \"import json\", \"from simulator.node import Node\"]}\n",
+    "id": 121358,
+    "is_valid": true,
+    "name": "Macey Goldstein",
+    "score": 2.0
+  },
+  {
+    "comment": "[+0.0] LINK_STATE @ ./test_cases/case_1.event\n    (Incorrect Solution)\n[+0.0] LINK_STATE @ ./test_cases/case_2.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] LINK_STATE @ ./test_cases/case_3.event\n    (Incorrect Solution)\n[+0.0] LINK_STATE @ ./test_cases/case_4.event\n    (Incorrect Solution)\n[+0.0] LINK_STATE @ ./test_cases/case_5.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] LINK_STATE @ ./test_cases/case_6.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] LINK_STATE @ ./test_cases/case_7.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] LINK_STATE @ ./test_cases/case_8.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] LINK_STATE @ ./test_cases/case_9.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] LINK_STATE @ ./test_cases/case_10.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Abnormal Exit)\n## {\"code_similarity\": 0.02595797280593325, \"import_lines\": [\"from simulator.node import Node\", \"import sys\", \"import math\", \"from simulator.node import Node\", \"import json\", \"import copy\"]}\n",
+    "id": 115871,
+    "is_valid": true,
+    "name": "Ezequiel Gomez",
+    "score": 0.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)\n## {\"code_similarity\": 0.07306851311953352, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import copy\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 116288,
+    "is_valid": true,
+    "name": "Nathaniel Hardy",
+    "score": 66.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.07680597841129255, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 80324,
+    "is_valid": true,
+    "name": "Jack Hoeg",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+1.0] LINK_STATE @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.09139867671949531, \"import_lines\": [\"import json\", \"import copy\", \"from simulator.node import Node\", \"from simulator.node import Node\", \"import copy\", \"import json\"]}\n",
+    "id": 117530,
+    "is_valid": true,
+    "name": "John Holtgreive",
+    "score": 87.0
+  },
+  {
+    "comment": "No attachment found!\n",
+    "id": 135792,
+    "is_valid": true,
+    "name": "Andrew Huang",
+    "score": 0.0
+  },
+  {
+    "comment": "No attachment found!\n",
+    "id": 79595,
+    "is_valid": true,
+    "name": "Drake Hubbard",
+    "score": 0.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+1.0] LINK_STATE @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+1.0] LINK_STATE @ ./test_cases/case_5.event\n    (Partially Correct Solution)\n[+1.0] LINK_STATE @ ./test_cases/case_6.event\n    (Partially Correct Solution)\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)\n## {\"code_similarity\": 0.03299264837726376, \"import_lines\": [\"from simulator.node import Node\", \"from simulator.node import Node\", \"import json\", \"from copy import deepcopy\"]}\n",
+    "id": 120720,
+    "is_valid": true,
+    "name": "Romir Hysko",
+    "score": 38.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.07105305082045563, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import copy\", \"from simulator.node import Node\", \"import json\", \"import copy\"]}\n",
+    "id": 65669,
+    "is_valid": true,
+    "name": "Atul Jalan",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.05402160864345738, \"import_lines\": [\"from typing import Dict, List, NamedTuple, Tuple\", \"import copy\", \"import json\", \"from simulator.node import Node\", \"from typing import Dict, NamedTuple\", \"from collections import defaultdict\", \"import json\", \"from simulator.node import Node\", \"from adj_graph import Edge, Neighbor, Graph, dijkstra\"]}\n",
+    "id": 144255,
+    "is_valid": true,
+    "name": "Isaiah Jones",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.07461123197163806, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import time\", \"from simulator.node import Node\", \"import json\", \"import time\", \"import datetime\", \"import copy\"]}\n",
+    "id": 134698,
+    "is_valid": true,
+    "name": "Joon Kim",
+    "score": 95.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.10287721646035464, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 96168,
+    "is_valid": true,
+    "name": "Michael Kim",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n    (Incorrect Solution)\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n    (Partially Correct Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Abnormal Exit)\n## {\"code_similarity\": 0.03988035892323031, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"from simulator.node import Node\", \"from queue import PriorityQueue\", \"import json\", \"import time\"]}\n",
+    "id": 116684,
+    "is_valid": true,
+    "name": "Seong Kim",
+    "score": 51.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.1374671571203363, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import copy\", \"from simulator.node import Node\", \"import json\", \"import copy\"]}\n",
+    "id": 96442,
+    "is_valid": true,
+    "name": "Joshua Larson",
+    "score": 95.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n    (Partially Correct Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n    (Partially Correct Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.09008638420403127, \"import_lines\": [\"from simulator.node import Node\", \"import pickle\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 102107,
+    "is_valid": true,
+    "name": "Chak Lee",
+    "score": 87.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.047606019151846785, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"from math import inf\", \"import time\", \"from simulator.node import Node\", \"from math import inf\", \"import json\", \"import heapq\"]}\n",
+    "id": 124774,
+    "is_valid": true,
+    "name": "Qinjie Lin",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n    (Incorrect Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n    (Partially Correct Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n    (Partially Correct Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)\n## {\"code_similarity\": 0.12348743406763885, \"import_lines\": [\"from simulator.node import Node\", \"from copy import *\", \"import json\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 114628,
+    "is_valid": true,
+    "name": "Jonathan Liu",
+    "score": 82.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+1.0] LINK_STATE @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+0.0] LINK_STATE @ ./test_cases/case_7.event\n    (Incorrect Solution)\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n    (Partially Correct Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.09668606722888703, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"from simulator.node import Node\", \"import json\", \"import heapq\"]}\n",
+    "id": 122265,
+    "is_valid": true,
+    "name": "Jonathan Liu",
+    "score": 87.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.08564890487087283, \"import_lines\": [\"from simulator.node import Node\", \"import copy\", \"import json\", \"from simulator.node import Node\", \"import json\", \"import bisect\"]}\n",
+    "id": 100435,
+    "is_valid": true,
+    "name": "Robert Loza",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.07417507499318243, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 116343,
+    "is_valid": true,
+    "name": "Alex Malavet",
+    "score": 96.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.026114051140016817, \"import_lines\": [\"from simulator.node import Node\", \"import copy\", \"import json\", \"from pprint import pformat\", \"import sys\", \"from simulator.node import Node\", \"import hashlib\", \"import json\", \"from pprint import pprint, pformat\", \"import queue\", \"import sys\"]}\n",
+    "id": 151163,
+    "is_valid": true,
+    "name": "John Mamish",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+0.0] LINK_STATE @ ./test_cases/case_4.event\n    (Incorrect Solution)(Abnormal Exit)\n[+1.0] LINK_STATE @ ./test_cases/case_5.event\n    (Partially Correct Solution)\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+0.0] LINK_STATE @ ./test_cases/case_7.event\n    (Incorrect Solution)\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Partially Correct Solution)(Time Out)(Time Out)\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n    (Partially Correct Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.08637706670019488, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 120262,
+    "is_valid": true,
+    "name": "Jack McCallie",
+    "score": 78.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+1.0] LINK_STATE @ ./test_cases/case_4.event\n    (Partially Correct Solution)(Time Out)(Time Out)\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.17334993773349938, \"import_lines\": [\"from simulator.node import Node\", \"import collections\", \"import ast\", \"from simulator.node import Node\", \"import heapq\"]}\n",
+    "id": 116301,
+    "is_valid": true,
+    "name": "Rachel McCardell",
+    "score": 91.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.07105305082045563, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import copy\", \"from simulator.node import Node\", \"import json\", \"import copy\"]}\n",
+    "id": 142790,
+    "is_valid": true,
+    "name": "Buddy McQuillan",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.07461123197163806, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import time\", \"from simulator.node import Node\", \"import json\", \"import time\", \"import datetime\", \"import copy\"]}\n",
+    "id": 121267,
+    "is_valid": true,
+    "name": "Zachary Miller",
+    "score": 95.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.05402160864345738, \"import_lines\": [\"from typing import Dict, List, NamedTuple, Tuple\", \"import copy\", \"import json\", \"from simulator.node import Node\", \"from typing import Dict, NamedTuple\", \"from collections import defaultdict\", \"import json\", \"from simulator.node import Node\", \"from adj_graph import Edge, Neighbor, Graph, dijkstra\"]}\n",
+    "id": 82133,
+    "is_valid": true,
+    "name": "Tiger Nie",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.05282852740479859, \"import_lines\": [\"from simulator.node import Node\", \"import copy\", \"import json\", \"import time\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 95068,
+    "is_valid": true,
+    "name": "Benjamin Nober",
+    "score": 95.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+1.0] LINK_STATE @ ./test_cases/case_4.event\n    (Partially Correct Solution)(Abnormal Exit)\n[+1.0] LINK_STATE @ ./test_cases/case_5.event\n    (Partially Correct Solution)\n[+1.0] LINK_STATE @ ./test_cases/case_6.event\n    (Partially Correct Solution)\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n    (Partially Correct Solution)\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n    (Partially Correct Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.15772727272727272, \"import_lines\": [\"from simulator.node import Node\", \"from copy import deepcopy\", \"import json\", \"from simulator.node import Node\", \"import json\", \"import sys\"]}\n",
+    "id": 96270,
+    "is_valid": true,
+    "name": "Nelson Okunlola",
+    "score": 76.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+1.0] LINK_STATE @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.11209800918836141, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import copy\", \"from simulator.node import Node\", \"import json\", \"import heapq\"]}\n",
+    "id": 86678,
+    "is_valid": true,
+    "name": "Kyle Qian",
+    "score": 96.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n    (Incorrect Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n    (Partially Correct Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+1.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n    (Partially Correct Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)\n## {\"code_similarity\": 0.12348743406763885, \"import_lines\": [\"from simulator.node import Node\", \"from copy import *\", \"import json\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 114243,
+    "is_valid": true,
+    "name": "Abhinav Reddy",
+    "score": 82.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.07680597841129255, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 102096,
+    "is_valid": true,
+    "name": "Anthony Roytman",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.14513908014321122, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import copy\", \"from simulator.node import Node\", \"import json\", \"import math\", \"import copy\", \"import heapq\"]}\n",
+    "id": 114840,
+    "is_valid": true,
+    "name": "Ahan Sahu",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.12909203211859172, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import math\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 114571,
+    "is_valid": true,
+    "name": "Arhan Salunke",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.047606019151846785, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"from math import inf\", \"import time\", \"from simulator.node import Node\", \"from math import inf\", \"import json\", \"import heapq\"]}\n",
+    "id": 108581,
+    "is_valid": true,
+    "name": "Jiahong Shen",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.15766099185788304, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import time\", \"import copy\", \"from simulator.node import Node\", \"import json\", \"import copy\"]}\n",
+    "id": 101863,
+    "is_valid": true,
+    "name": "Quinn Shim",
+    "score": 95.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+1.0] LINK_STATE @ ./test_cases/case_4.event\n    (Partially Correct Solution)(Time Out)(Time Out)\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.17334993773349938, \"import_lines\": [\"from simulator.node import Node\", \"import collections\", \"import ast\", \"from simulator.node import Node\", \"import heapq\"]}\n",
+    "id": 116262,
+    "is_valid": true,
+    "name": "Kelly Su",
+    "score": 91.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.03343860300947427, \"import_lines\": [\"import json\", \"import copy\", \"from simulator.node import Node\", \"from simulator.node import Node\", \"from simulator.node import Link\", \"import json\"]}\n",
+    "id": 142005,
+    "is_valid": true,
+    "name": "Zhuoran Su",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.06070916905444126, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 116999,
+    "is_valid": true,
+    "name": "Thomas Suffoletta",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.06070916905444126, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 117338,
+    "is_valid": true,
+    "name": "Braden Svoboda",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n    (Incorrect Solution)(Time Out)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.027900433746238913, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import copy\", \"from simulator.node import Node\", \"import json\", \"import heapq\"]}\n",
+    "id": 101125,
+    "is_valid": true,
+    "name": "Kathryne Tao",
+    "score": 90.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.059937921438510115, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import math\", \"import copy\", \"from simulator.node import Node\", \"import json\", \"import math\"]}\n",
+    "id": 66702,
+    "is_valid": true,
+    "name": "Yav Todorov",
+    "score": 95.0
+  },
+  {
+    "comment": "[+0.0] LINK_STATE @ ./test_cases/case_1.event\n    (Incorrect Solution)\n[+0.0] LINK_STATE @ ./test_cases/case_2.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] LINK_STATE @ ./test_cases/case_3.event\n    (Incorrect Solution)\n[+0.0] LINK_STATE @ ./test_cases/case_4.event\n    (Incorrect Solution)\n[+0.0] LINK_STATE @ ./test_cases/case_5.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] LINK_STATE @ ./test_cases/case_6.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] LINK_STATE @ ./test_cases/case_7.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] LINK_STATE @ ./test_cases/case_8.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] LINK_STATE @ ./test_cases/case_9.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] LINK_STATE @ ./test_cases/case_10.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n    (Incorrect Solution)(Abnormal Exit)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Abnormal Exit)\n## {\"code_similarity\": 0.02595797280593325, \"import_lines\": [\"from simulator.node import Node\", \"import sys\", \"import math\", \"from simulator.node import Node\", \"import json\", \"import copy\"]}\n",
+    "id": 125459,
+    "is_valid": true,
+    "name": "Mili Tomar",
+    "score": 0.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.10527315914489312, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"from simulator.node import Node\", \"import heapq\"]}\n",
+    "id": 96041,
+    "is_valid": true,
+    "name": "Sharon Wong",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+0.0] LINK_STATE @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.05926369350493864, \"import_lines\": [\"from simulator.node import Node\", \"import copy\", \"import json\", \"import numpy as np\", \"from simulator.node import Node\", \"import json\", \"import heapq\"]}\n",
+    "id": 149193,
+    "is_valid": true,
+    "name": "Hanjie Xie",
+    "score": 95.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.08096573588586757, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import copy\", \"from simulator.node import Node\", \"import json\", \"import heapq\"]}\n",
+    "id": 143646,
+    "is_valid": true,
+    "name": "Andy Xu",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n    (Incorrect Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.04322836557921153, \"import_lines\": [\"from simulator.node import Node\", \"import copy\", \"import math\", \"import json\", \"from simulator.node import Node\", \"import json\", \"import math\"]}\n",
+    "id": 120717,
+    "is_valid": true,
+    "name": "Qiuyang Xu",
+    "score": 95.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n    (Incorrect Solution)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.04322836557921153, \"import_lines\": [\"from simulator.node import Node\", \"import copy\", \"import math\", \"import json\", \"from simulator.node import Node\", \"import json\", \"import math\"]}\n",
+    "id": 142592,
+    "is_valid": true,
+    "name": "Lily Yan",
+    "score": 95.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.10287721646035464, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"from simulator.node import Node\", \"import json\"]}\n",
+    "id": 142153,
+    "is_valid": true,
+    "name": "Dan Yang",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.09243625820755522, \"import_lines\": [\"from simulator.node import Node\", \"import math\", \"import copy\", \"import json\", \"from simulator.node import Node\", \"import math, json\", \"import copy\"]}\n",
+    "id": 115188,
+    "is_valid": true,
+    "name": "Joey Yang",
+    "score": 95.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n    (Incorrect Solution)(Time Out)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n## {\"code_similarity\": 0.027900433746238913, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import copy\", \"from simulator.node import Node\", \"import json\", \"import heapq\"]}\n",
+    "id": 103145,
+    "is_valid": true,
+    "name": "Joanna Yu",
+    "score": 90.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+1.0] LINK_STATE @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.11209800918836141, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"import copy\", \"from simulator.node import Node\", \"import json\", \"import heapq\"]}\n",
+    "id": 123751,
+    "is_valid": true,
+    "name": "Kai Yun",
+    "score": 96.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+0.0] LINK_STATE @ ./test_cases/case_10.event\n    (Incorrect Solution)(Time Out)\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.05926369350493864, \"import_lines\": [\"from simulator.node import Node\", \"import copy\", \"import json\", \"import numpy as np\", \"from simulator.node import Node\", \"import json\", \"import heapq\"]}\n",
+    "id": 79173,
+    "is_valid": true,
+    "name": "Rabin Zhao",
+    "score": 95.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+5.0] LINK_STATE @ ./test_cases/case_4.event\n[+5.0] LINK_STATE @ ./test_cases/case_5.event\n[+5.0] LINK_STATE @ ./test_cases/case_6.event\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n[+5.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n## {\"code_similarity\": 0.10527315914489312, \"import_lines\": [\"from simulator.node import Node\", \"import json\", \"from simulator.node import Node\", \"import heapq\"]}\n",
+    "id": 97333,
+    "is_valid": true,
+    "name": "Ziqi Zhao",
+    "score": 100.0
+  },
+  {
+    "comment": "[+5.0] LINK_STATE @ ./test_cases/case_1.event\n[+5.0] LINK_STATE @ ./test_cases/case_2.event\n[+5.0] LINK_STATE @ ./test_cases/case_3.event\n[+1.0] LINK_STATE @ ./test_cases/case_4.event\n    (Partially Correct Solution)\n[+1.0] LINK_STATE @ ./test_cases/case_5.event\n    (Partially Correct Solution)\n[+1.0] LINK_STATE @ ./test_cases/case_6.event\n    (Partially Correct Solution)\n[+5.0] LINK_STATE @ ./test_cases/case_7.event\n[+5.0] LINK_STATE @ ./test_cases/case_8.event\n[+5.0] LINK_STATE @ ./test_cases/case_9.event\n[+5.0] LINK_STATE @ ./test_cases/case_10.event\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_1.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_2.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_3.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_4.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_5.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_6.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_7.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_8.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_9.event\n    (Incorrect Solution)\n[+0.0] DISTANCE_VECTOR @ ./test_cases/case_10.event\n    (Incorrect Solution)\n## {\"code_similarity\": 0.03299264837726376, \"import_lines\": [\"from simulator.node import Node\", \"from simulator.node import Node\", \"import json\", \"from copy import deepcopy\"]}\n",
+    "id": 58181,
+    "is_valid": true,
+    "name": "Michael Zhu",
+    "score": 38.0
+  }
+]

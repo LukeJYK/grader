@@ -1,0 +1,100 @@
+
+<html>
+<head>
+<title>Outgoing Port Tester</title>
+<style type="text/css">
+body {
+	font-family: sans-serif;
+	font-size: 0.9em;
+}
+</style>
+
+</head>
+
+<body>
+<h1>Outgoing port tester</h1>
+
+This server listens on all TCP ports, allowing you to test any outbound TCP port.
+
+<p>
+You have reached this page on port <b>8080</b>.<br/>
+</p>
+
+Your network allows you to use this port.
+(Assuming that your network is not doing advanced traffic filtering.)
+
+<p>
+Network service: http-alt<br/>
+Your outgoing IP: 98.206.141.221</p>
+
+<h2>Test a port using a command</h2>
+
+<pre>
+$ telnet portquiz.net 8080 
+Trying ...
+Connected to portquiz.net.
+Escape character is '^]'.
+</pre>
+<pre>
+$ nc -v portquiz.net 8080 
+Connection to portquiz.net 8080 port [tcp/daytime] succeeded!
+</pre>
+<pre>
+$ curl portquiz.net:8080 
+Port 8080 test successful!
+Your IP: 98.206.141.221</pre>
+<pre>
+$ wget -qO- portquiz.net:8080 
+Port 8080 test successful!
+Your IP: 98.206.141.221</pre>
+<pre>
+# For Windows PowerShell users
+PS C:\&gt; Test-NetConnection -InformationLevel detailed -ComputerName portquiz.net -Port 8080</pre>
+
+<h2>Test a port using your browser</h2>
+
+<p>
+In your browser address bar: <strong>http://portquiz.net:XXXX</strong>
+</p>
+
+Examples: <br/>
+<a href="http://portquiz.net:8080">http://portquiz.net:8080</a> <br/>
+<a href="http://portquiz.net:8">http://portquiz.net:8</a> <br/>
+<a href="http://portquiz.net:666">http://portquiz.net:666</a> <br/>
+
+<p>
+I got complains that portquiz is not working on port 445. My hosting company OVH is probably blocking this port. Sorry about that. Feel free to contact them. See <a href="http://positon.org/is-ovh-blocking-port-445">my blog post</a> and <a href="https://forum.ovh.com/showthread.php/106901-OVH-bloque-le-port-445-vers-mon-serveur-d%C3%A9di%C3%A9">OVH forum post (french)</a>.
+</p>
+
+<p>
+Your browser can block network ports normally used for purposes other than Web browsing. In this case you should use the telnet or netcat commands to test the port.
+</p>
+<p>
+Please also note that this server uses some port for real services (22, 25), so testing with your browser on those ports will not work.
+</p>
+
+<h2>Rate limiting</h2>
+
+05/06/2020 : I had to set up Rate limiting on new connections by IP, otherwise the charge was too high for the small portquiz VM. Sorry for that.
+
+<p>
+<i>Contact/feedback:</i><br/>
+<img src="portquizm.png" />
+</p>
+
+<p>
+<a href="http://marcmaurice.fr">Marc MAURICE</a>
+</p>
+
+<p>
+<i>See also:</i><br/>
+<ul>
+<li> <a href="http://en.positon.org/post/An-outgoing-port-tester">Blog post on this topic</a> and <a href="http://positon.org/portquiz-net-how-it-works">How it works</a> </li>
+<li> <a href="http://www.firebind.com/">Firebind</a>, a commercial tester. <a href="http://www.firebind.com/clients/web/">javascript test</a> </li>
+<li> <a href="https://github.com/nhooyr/outPorts">outPorts</a>, a tiny program to test a range of ports using portquiz </li>
+</ul>
+</p>
+
+</body>
+
+</html>

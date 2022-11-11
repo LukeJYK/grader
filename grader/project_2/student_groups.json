@@ -1,0 +1,349 @@
+{
+  "errors": [
+    "121768: repetitive submission [121768, 122256]",
+    "117046: repetitive submission [117046, 121734]",
+    "116288: repetitive submission [123362, 116288]",
+    "117530: repetitive submission [121650, 117530]",
+    "135792: repetitive submission [121773, 135792]",
+    "100435: the student hemself is not a member [121521]",
+    "116343: repetitive submission [116343, 116056]",
+    "142790: repetitive submission [65669, 142790]",
+    "121267: repetitive submission [121267, 134698]",
+    "82133: repetitive submission [82133, 144255]",
+    "95068: repetitive submission [116818, 95068]",
+    "96270: repetitive submission [102018, 96270]",
+    "86678: repetitive submission [86678, 122265]",
+    "114243: repetitive submission [114628, 114243]",
+    "102096: repetitive submission [80324, 102096]",
+    "114840: repetitive submission [114840, 97817]",
+    "114571: repetitive submission [169895, 114571]",
+    "108581: repetitive submission [124774, 108581]",
+    "101863: repetitive submission [101863, 115885]",
+    "116262: repetitive submission [116262, 116301]",
+    "142005: repetitive submission [142005, 136799]",
+    "117338: repetitive submission [117338, 116999]",
+    "101125: the student hemself is not a member [103145]",
+    "125459: repetitive submission [115871, 125459]",
+    "143646: repetitive submission [143646, 121683]",
+    "142592: repetitive submission [142592, 120717]",
+    "142153: repetitive submission [142153, 96168]",
+    "79173: repetitive submission [149193, 79173]",
+    "97333: repetitive submission [97333, 96041]",
+    "58181: repetitive submission [58181, 120720]",
+    "79595: not in any group",
+    "100435: not in any group",
+    "101125: not in any group"
+  ],
+  "groups": [
+    {
+      "leader": 79595,
+      "members": [
+        79595
+      ]
+    },
+    {
+      "leader": 100435,
+      "members": [
+        100435
+      ]
+    },
+    {
+      "leader": 101125,
+      "members": [
+        101125
+      ]
+    },
+    {
+      "leader": 97817,
+      "members": [
+        97817,
+        114840
+      ]
+    },
+    {
+      "leader": 121650,
+      "members": [
+        121650,
+        117530
+      ]
+    },
+    {
+      "leader": 145951,
+      "members": [
+        145951
+      ]
+    },
+    {
+      "leader": 116818,
+      "members": [
+        116818,
+        95068
+      ]
+    },
+    {
+      "leader": 121683,
+      "members": [
+        121683,
+        143646
+      ]
+    },
+    {
+      "leader": 122256,
+      "members": [
+        122256,
+        121768
+      ]
+    },
+    {
+      "leader": 121521,
+      "members": [
+        121521
+      ]
+    },
+    {
+      "leader": 169947,
+      "members": [
+        169947
+      ]
+    },
+    {
+      "leader": 136799,
+      "members": [
+        136799,
+        142005
+      ]
+    },
+    {
+      "leader": 169895,
+      "members": [
+        169895,
+        114571
+      ]
+    },
+    {
+      "leader": 97454,
+      "members": [
+        97454
+      ]
+    },
+    {
+      "leader": 116056,
+      "members": [
+        116056,
+        116343
+      ]
+    },
+    {
+      "leader": 101673,
+      "members": [
+        101673
+      ]
+    },
+    {
+      "leader": 123362,
+      "members": [
+        123362,
+        116288
+      ]
+    },
+    {
+      "leader": 121773,
+      "members": [
+        121773,
+        135792
+      ]
+    },
+    {
+      "leader": 121452,
+      "members": [
+        121452
+      ]
+    },
+    {
+      "leader": 121734,
+      "members": [
+        121734,
+        117046
+      ]
+    },
+    {
+      "leader": 102018,
+      "members": [
+        102018,
+        96270
+      ]
+    },
+    {
+      "leader": 115885,
+      "members": [
+        115885,
+        101863
+      ]
+    },
+    {
+      "leader": 121358,
+      "members": [
+        121358
+      ]
+    },
+    {
+      "leader": 115871,
+      "members": [
+        115871,
+        125459
+      ]
+    },
+    {
+      "leader": 80324,
+      "members": [
+        80324,
+        102096
+      ]
+    },
+    {
+      "leader": 120720,
+      "members": [
+        120720,
+        58181
+      ]
+    },
+    {
+      "leader": 65669,
+      "members": [
+        65669,
+        142790
+      ]
+    },
+    {
+      "leader": 144255,
+      "members": [
+        144255,
+        82133
+      ]
+    },
+    {
+      "leader": 134698,
+      "members": [
+        134698,
+        121267
+      ]
+    },
+    {
+      "leader": 96168,
+      "members": [
+        96168,
+        142153
+      ]
+    },
+    {
+      "leader": 116684,
+      "members": [
+        116684
+      ]
+    },
+    {
+      "leader": 96442,
+      "members": [
+        96442
+      ]
+    },
+    {
+      "leader": 102107,
+      "members": [
+        102107
+      ]
+    },
+    {
+      "leader": 124774,
+      "members": [
+        124774,
+        108581
+      ]
+    },
+    {
+      "leader": 114628,
+      "members": [
+        114628,
+        114243
+      ]
+    },
+    {
+      "leader": 122265,
+      "members": [
+        122265,
+        86678
+      ]
+    },
+    {
+      "leader": 151163,
+      "members": [
+        151163
+      ]
+    },
+    {
+      "leader": 120262,
+      "members": [
+        120262
+      ]
+    },
+    {
+      "leader": 116301,
+      "members": [
+        116301,
+        116262
+      ]
+    },
+    {
+      "leader": 116999,
+      "members": [
+        116999,
+        117338
+      ]
+    },
+    {
+      "leader": 66702,
+      "members": [
+        66702
+      ]
+    },
+    {
+      "leader": 96041,
+      "members": [
+        96041,
+        97333
+      ]
+    },
+    {
+      "leader": 149193,
+      "members": [
+        149193,
+        79173
+      ]
+    },
+    {
+      "leader": 120717,
+      "members": [
+        120717,
+        142592
+      ]
+    },
+    {
+      "leader": 115188,
+      "members": [
+        115188
+      ]
+    },
+    {
+      "leader": 103145,
+      "members": [
+        103145
+      ]
+    },
+    {
+      "leader": 123751,
+      "members": [
+        123751
+      ]
+    }
+  ]
+}

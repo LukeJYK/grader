@@ -1,0 +1,27 @@
+Manual checks for all below-80 groups:
+
+Regrade:
+116623 ayobami 0.0 fix indent error -> 72.0
+-2: IndentationError: unindent does not match any outer indentation level ("link_state_node.py", line 40), I fixed it
+116244 jay 32.0 dv abnormal -> 78.0
+-2: NameError: name 'destination' is not defined ("distance_vector_node.py", line 93), I fixed it
+149655 yuwei 0.0 abnormal -> 96.0
+-2: incomplete code submitted
+101746 aaron_klr. 0.0 abnormal -> 45.0
+-2: incomplete code submitted
+
+Verbal note: (for any below-100 groups: please email me if there are any inconsistencys)
+
+Manual note:
+122986 bradley 56.0 late 3 days
+123809 joshua 66.0 late 2 days
+116636 eugene 50.0 dv all incorrect
+101746 aaron_klr. 43.0 dv all incorrect
+
+Manual add:
+marc jiang +10%
+
+----------------
+
+116636 eugene -5 for typo
+116244 jay -2 for incorrect version submitted

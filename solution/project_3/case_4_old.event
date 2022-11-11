@@ -1,0 +1,16 @@
+# Case 4: Figure 4.31
+
+# ### I suggest replacing this to "count to infinity".
+# ### Canvas say 'The simple solution called "poisoned reverse" will not help'
+
+0 ADD_NODE 1
+0 ADD_NODE 2
+0 ADD_NODE 3
+
+0 ADD_LINK 1 2 4
+0 ADD_LINK 2 3 1
+0 ADD_LINK 1 3 50
+
+150 CHANGE_LINK 1 2 60
+
+300 DRAW_PATH 1 2
